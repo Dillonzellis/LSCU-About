@@ -29,6 +29,7 @@
         type='text/css'>
 
     <link rel="stylesheet" href="../style.css">
+	<link rel="stylesheet" href="../css/style.css"
 
     <!--[if lt IE 9]>
 <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -117,7 +118,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+                                            <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
@@ -133,7 +134,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
@@ -149,7 +150,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+                               <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
@@ -163,7 +164,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
@@ -177,7 +178,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+                      <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
@@ -190,7 +191,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+         <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
@@ -205,7 +206,7 @@
                                 <tr>
                                     <td>
                                         <div class="img-wrapper">
-                                            <img src="./imgs/AlanBabcock_1.jpg" alt="" srcset="">
+                        <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                                             <div class="name">Alan Babcock</div>
                                         </div>
                                     </td>
