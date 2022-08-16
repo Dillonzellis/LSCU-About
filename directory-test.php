@@ -29,11 +29,9 @@
         type='text/css'>
 
     <link rel="stylesheet" href="../style.css">
-	<link rel="stylesheet" href="../css/style.css"
-
-    <!--[if lt IE 9]>
-<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-<![endif]-->
+    <link rel="stylesheet" href="../css/style.css" <!--[if lt IE 9]>
+    <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
 
     <!-- stylesheets -->
     <link rel="stylesheet" media="screen" href="../../js/bootstrap/bootstrap.min.css" type="text/css" />
