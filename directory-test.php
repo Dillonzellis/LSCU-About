@@ -105,8 +105,10 @@
                                 <tr>
                                     <th width="126">Name</th>
                                     <th width="159">Position</th>
+                                    <th>Department</th>
                                     <th width="129">Phone Number</th>
                                     <th width="260">Email</th>
+                                    <th>Location</th>
                                 </tr>
                             </thead>
 
@@ -120,9 +122,12 @@
                                         </div>
                                     </td>
                                     <td>Marketing Intern</td>
+                                    <td>Department</td>
                                     <td>866.231.0545</td>
                                     <td><a href="mailto:abigail@growthbydesign.org"
-                                            target="_parent">abigail@growthbydesign.org</a></td>
+                                            target="_parent">abigail@growthbydesign.org</a>
+                                    </td>
+                                    <td>Duluth</td>
 
                                 </tr>
                                 <tr>
@@ -133,9 +138,12 @@
                                         </div>
                                     </td>
                                     <td>VP, Shared Cooperative Services</td>
+                                    <td>Department: Education</td>
                                     <td>850.558.1102</td>
                                     <td><a href="mailto:alan.babcock@myleverage.com"
-                                            target="_parent">alan.babcock@myleverage.com</a></td>
+                                            target="_parent">alan.babcock@myleverage.com</a>
+                                    </td>
+                                    <td>Tallahassee</td>
 
                                 </tr>
                                 <tr>
