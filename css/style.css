@@ -1,0 +1,7 @@
+.img-wrapper {
+}
+
+.img-wrapper > img {
+  width: 150px;
+  height: auto;
+}
