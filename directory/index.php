@@ -534,12 +534,12 @@
   <td>866.231.0545</td>
   <td><a href="mailto:jsharkey@teamonecu.org">jsharkey@teamonecu.org</a></td>
  </tr>
- 
- <tr>
-  <td>Jennifer Martin</td>
-  <td>SVP, Strategic Initiatives</td>
-  <td>850.558.1150</td>
-  <td><a href="mailto:Jennifer.Martin@lscu.coop" target="_parent">Jennifer.Martin@lscu.coop</a></td>
+	  
+<tr>
+  <td>Jennifer Krambeck</td>
+  <td>Accountant I</td>
+  <td>850.558.1106</td>
+  <td><a href="mailto:jennifer.krambeck@lscu.coop">jennifer.krambeck@lscu.coop</a></td>
  </tr>
  
  <tr>
@@ -1087,6 +1087,13 @@
   <td><a href="mailto:wen.hemingway@lscu.coop" target="_parent">wen.hemingway@lscu.coop</a></td>
  </tr>
 		  
+<tr>
+  <td>Zachery Gilbert</td>
+  <td>Staff Auditor</td>
+  <td>865.507.2263</td>
+  <td><a href="mailto:zachery.gilbert@cuacg.com" target="_parent">zachery.gilbert@cuacg.com</a></td>
+ </tr>
+	 
 <tr>
   <td>Zephaniah Williams</td>
   <td>Operations Specialist</td>
