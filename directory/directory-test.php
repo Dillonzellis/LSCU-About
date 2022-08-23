@@ -217,10 +217,13 @@
                             <td>Duluth</td>
                           </tr>
                           <tr>
+                            <td>
                             <div class="img-wrapper">
                               <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                               <div class="name">Anthony Roberts</div>
                             </div>
+                            </td>
+     
                             <td>Compliance Consultant</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -230,10 +233,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
+                            <td>
+                            <div class="img-wrapper">
                               <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
                               <div class="name">Antoinette Plaster</div>
                             </div>
+                            </td>
+       
                             <td>Member Service Representative</td>
                             <td>Department</td>
                             <td>850.558.1048</td>
@@ -243,10 +249,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Arno Quon</div>
-                              </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Arno Quon</div>
+                                </div>
+                          </td>
                             <td>Member Engagement Consultant</td>
                             <td>Department</td>
                             <td>678.542.3511</td>
@@ -256,10 +264,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Ashley Brown</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Ashley Brown</div>
+                              </div>
+                          </td>
             
                             <td>Title Order Specialist</td>
                             <td>Department</td>
@@ -270,10 +280,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Ashley Martin</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Ashley Martin</div>
+                              </div>
+                          </td>
                        
                             <td>Payment Solutions Specialist I</td>
                             <td>Department</td>
@@ -284,10 +296,12 @@
                            
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Beatriz Arrocha</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Beatriz Arrocha</div>
+                              </div>
+                          </td>
          
                             <td>Communications Intern</td>
                             <td>Department</td>
@@ -298,10 +312,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Becky Moore</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Becky Moore</div>
+                              </div>
+                          </td>
                   
                             <td>Administrative Assistant</td>
                             <td>Department</td>
@@ -312,10 +328,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Benjamin "Ben" Blackerby, Esq.</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Benjamin "Ben" Blackerby, Esq.</div>
+                              </div>
+                          </td>
                     
                             <td>Closing Agent</td>
                             <td>Department</td>
@@ -326,10 +344,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Bill Berg</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Bill Berg</div>
+                              </div>
+                          </td>
                          
                             <td>VP, Compliance Training &amp; Information</td>
                             <td>Department</td>
@@ -340,10 +360,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Blake Westbrook</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Blake Westbrook</div>
+                              </div>
+                          </td>
                  
                             <td>Director, Political Action & Grassroots (AL & GA)</td>
                             <td>Department</td>
@@ -354,10 +376,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Bobbi Grady</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Bobbi Grady</div>
+                              </div>
+                          </td>
                         
                             <td>Development Coordinator (SECUF)</td>
                             <td>Department</td>
@@ -368,10 +392,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Brooke Collins</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Brooke Collins</div>
+                              </div>
+                          </td>
                         
                             <td>Manager, Sales and Service (CUVM)</td>
                             <td>Department</td>
@@ -382,10 +408,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Cameron Carswell</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Cameron Carswell</div>
+                              </div>
+                          </td>
                          
                             <td>Senior Web Developer</td>
                             <td>Department</td>
@@ -396,10 +424,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Cameron Hicks</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Cameron Hicks</div>
+                              </div>
+                          </td>
                 
                             <td>Intern</td>
                             <td>Department</td>
@@ -408,10 +438,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Cara Dollinger</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Cara Dollinger</div>
+                              </div>
+                          </td>
              
                             <td>Council Coordinator</td>
                             <td>Department</td>
@@ -422,10 +454,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Carol Simmonds</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Carol Simmonds</div>
+                              </div>
+                          </td>
                       
                             <td>Senior Staff Accountant</td>
                             <td>Department</td>
@@ -436,10 +470,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Chelsea Riggle</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Chelsea Riggle</div>
+                              </div>
+                          </td>
                    
                             <td>Recruiter</td>
                             <td>Department</td>
@@ -450,10 +486,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Chris Frentzel</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Chris Frentzel</div>
+                              </div>
+                          </td>
                      
                             <td>Video Production Intern</td>
                             <td>Department</td>
@@ -464,10 +502,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Chris Maddox</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Chris Maddox</div>
+                              </div>
+                          </td>
                     
                             <td>Creative Director</td>
                             <td>Department</td>
@@ -478,10 +518,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Christine Poole</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Christine Poole</div>
+                              </div>
+                          </td>
                       
                             <td>Exhibit & Sponsorhip Manager</td>
                             <td>Department</td>
@@ -492,10 +534,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Christopher Christensen</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Christopher Christensen</div>
+                              </div>
+                          </td>
                    
                             <td>Member Service Representative</td>
                             <td>Department</td>
@@ -506,10 +550,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Cindy Gray</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Cindy Gray</div>
+                              </div>
+                          </td>
                      
                             <td>Title Production Specialist</td>
                             <td>Department</td>
@@ -520,10 +566,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Collin Joiner</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Collin Joiner</div>
+                              </div>
+                          </td>
                 
                             <td>Staff Auditor - TN</td>
                             <td>Department</td>
@@ -534,10 +582,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Crystal Gertjegerdes</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Crystal Gertjegerdes</div>
+                              </div>
+                          </td>
                        
                             <td>Customer Service Representative</td>
                             <td>Department</td>
@@ -548,10 +598,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">David Bowman</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">David Bowman</div>
+                              </div>
+                          </td>
                 
                             <td>VP, People & Culture</td>
                             <td>Department</td>
@@ -562,10 +614,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">David Hughes</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">David Hughes</div>
+                              </div>
+                          </td>
              
                             <td>Director, Product Management</td>
                             <td>Department</td>
@@ -576,10 +630,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">David Nettles</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">David Nettles</div>
+                              </div>
+                          </td>
            
                             <td>VP, LEVERAGE Payment Solutions</td>
                             <td>Department</td>
@@ -590,10 +646,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">David Pace</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">David Pace</div>
+                              </div>
+                          </td>
                        
                             <td>Manager, Regulatory Advocacy</td>
                             <td>Department</td>
@@ -604,10 +662,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Davis Hurst</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Davis Hurst</div>
+                              </div>
+                          </td>
                       
                             <td>Abstractor</td>
                             <td>Department</td>
@@ -618,10 +678,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Desario Smith</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Desario Smith</div>
+                              </div>
+                          </td>
                       
                             <td>Manager of Vendor Relations</td>
                             <td>Department</td>
@@ -632,10 +694,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Dillon Ellis</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Dillon Ellis</div>
+                              </div>
+                          </td>
                     
                             <td>Web Developer</td>
                             <td>Department</td>
@@ -646,10 +710,12 @@
                             <td>Duluth</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Donnette' Logan</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Donnette' Logan</div>
+                              </div>
+                          </td>
                       
                             <td>Business Development Consultant</td>
                             <td>Department</td>
@@ -660,10 +726,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Doris Geohagan</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Doris Geohagan</div>
+                              </div>
+                          </td>
                     
                             <td>Senior Staff Accountant</td>
                             <td>Department</td>
@@ -674,10 +742,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Eddie Reyes</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Eddie Reyes</div>
+                              </div>
+                          </td>
                     
                             <td>Network Engineer</td>
                             <td>Department</td>
@@ -688,10 +758,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Edward Daffin II</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Edward Daffin II</div>
+                              </div>
+                          </td>
                         
                             <td>Auditor</td>
                             <td>Department</td>
@@ -702,10 +774,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Elaine Minichiello</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Elaine Minichiello</div>
+                              </div>
+                          </td>
                           
                             <td>Staff Accountant</td>
                             <td>Department</td>
@@ -716,10 +790,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Elizabeth Laffitte</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Elizabeth Laffitte</div>
+                              </div>
+                          </td>
                        
                             <td>Salesforce Developer</td>
                             <td>Department</td>
@@ -730,10 +806,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Erin Weber</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Erin Weber</div>
+                              </div>
+                          </td>
         
                             <td>Title Production Specialist</td>
                             <td>Department</td>
@@ -744,10 +822,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Evan Irwin - TN</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Evan Irwin - TN</div>
+                              </div>
+                          </td>
                         
                             <td>Staff Auditor </td>
                             <td>Department</td>
@@ -758,10 +838,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Evan Torney</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Evan Torney</div>
+                              </div>
+                          </td>
                        
                             <td>Events Coordinator</td>
                             <td>Department</td>
@@ -772,10 +854,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Felicia Hatten</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Felicia Hatten</div>
+                              </div>
+                          </td>
                 
                             <td>Pre-Closer</td>
                             <td>Department</td>
@@ -786,10 +870,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Garrett Mills</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Garrett Mills</div>
+                              </div>
+                          </td>
                         
                             <td>ATM Operations Specialist</td>
                             <td>Department</td>
@@ -800,10 +886,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Gerald McSwain</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Gerald McSwain</div>
+                              </div>
+                          </td>
                        
                             <td>Operations Manager</td>
                             <td>Department</td>
@@ -814,10 +902,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Grace Newcombe</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Grace Newcombe</div>
+                              </div>
+                          </td>
                     
                             <td>Sr. Director, Federal Advocacy & Communications</td>
                             <td>Department</td>
@@ -828,10 +918,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Gwen Davis</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Gwen Davis</div>
+                              </div>
+                          </td>
                             <td>Member Service Representative</td>
                             <td>Department</td>
                             <td>850.558.1186</td>
@@ -841,10 +933,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Hayley Moss</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Hayley Moss</div>
+                              </div>
+                          </td>
                     
                             <td>Events Coordinator</td>
                             <td>Department</td>
@@ -855,10 +949,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jackie Locklar</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jackie Locklar</div>
+                              </div>
+                          </td>
                   
                             <td>Director, Accounting</td>
                             <td>Department</td>
@@ -869,10 +965,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jaela Stephens</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jaela Stephens</div>
+                              </div>
+                          </td>
                     
                             <td>Operations Assistant</td>
                             <td>Department</td>
@@ -883,10 +981,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jaime Garcia</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jaime Garcia</div>
+                              </div>
+                          </td>
               
                             <td>Closing Agent</td>
                             <td>Department</td>
@@ -897,10 +997,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Janet Friedman</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Janet Friedman</div>
+                              </div>
+                          </td>
                          
                             <td>Post Closer</td>
                             <td>Department</td>
@@ -911,10 +1013,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Javont&eacute; Martinez</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Javont&eacute; Martinez</div>
+                              </div>
+                          </td>
                      
                             <td>Staff Auditor</td>
                             <td>Department</td>
@@ -925,10 +1029,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jay Brady</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jay Brady</div>
+                              </div>
+                          </td>
                           
                             <td>Director, Consultative Services</td>
                             <td>Department</td>
@@ -939,10 +1045,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jeffrey Sharkey</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jeffrey Sharkey</div>
+                              </div>
+                          </td>
                           
                             <td>Treasury Consultant</td>
                             <td>Department</td>
@@ -953,10 +1061,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jennifer Krambeck</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jennifer Krambeck</div>
+                              </div>
+                          </td>
                      
                             <td>Accountant I</td>
                             <td>Department</td>
@@ -967,10 +1077,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jessica McDaniel</div>
+                              </div>
+                          </td>
                     
                             <td>VP of P&C</td>
                             <td>Department</td>
@@ -981,10 +1093,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica Thompson</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Jessica Thompson</div>
+                              </div>
+                          </td>
                     
                             <td>Assistant Controller</td>
                             <td>Department</td>
@@ -995,10 +1109,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Joanna Forrester</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Joanna Forrester</div>
+                              </div>
+                          </td>
                      
                             <td>Senior Production Artist</td>
                             <td>Department</td>
@@ -1009,10 +1125,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">John Ballantyne</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">John Ballantyne</div>
+                              </div>
+                          </td>
                         
                             <td>Cash Management CUSO</td>
                             <td>Department</td>
@@ -1021,10 +1139,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">John Rothell</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">John Rothell</div>
+                              </div>
+                          </td>
                           
                             <td>Sr. Director, Governmental Affairs (FL)</td>
                             <td>Department</td>
@@ -1035,10 +1155,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Joshua Swift</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Joshua Swift</div>
+                              </div>
+                          </td>
                   
                             <td>Auditor</td>
                             <td>Department</td>
@@ -1049,10 +1171,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Julian Gabriel</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Julian Gabriel</div>
+                              </div>
+                          </td>
                    
                             <td>Talent Acquistition Specialist</td>
                             <td>Department</td>
@@ -1063,10 +1187,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Julie Yanes</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Julie Yanes</div>
+                              </div>
+                          </td>
               
                             <td>Manager, Operations</td>
                             <td>Department</td>
@@ -1077,10 +1203,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Kaitlin Moore</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kaitlin Moore</div>
+                              </div>
+                          </td>
                
                             <td>Pre-Closer</td>
                             <td>Department</td>
@@ -1091,10 +1219,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Karen Frazee</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Karen Frazee</div>
+                              </div>
+                          </td>
                     
                             <td>VP, Business Development</td>
                             <td>Department</td>
@@ -1105,10 +1235,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Kate Brady</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Brady</div>
+                              </div>
+                          </td>
              
                             <td>Executive Assistant to CEO</td>
                             <td>Department</td>
@@ -1119,10 +1251,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Kate Heisler</div>
-                            </div>
+                          <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                       
                             <td>Pre-Closer</td>
                             <td>Department</td>
@@ -1133,10 +1267,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kaylee Bryant</td>
                             <td>Staff Auditor - GA</td>
                             <td>Department</td>
@@ -1147,10 +1283,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kela Wingard</td>
                             <td>Compliance Coordinator</td>
                                <td>Department</td>
@@ -1161,10 +1299,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kelli Silvernale</td>
                             <td>VP, Vendor Management</td>
                                <td>Department</td>
@@ -1175,10 +1315,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kevin Moore</td>
                             <td>Senior Abstractor</td>
                                <td>Department</td>
@@ -1189,10 +1331,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>KhaTara Lott-Evans</td>
                             <td>Staff Auditor - AL</td>
                                <td>Department</td>
@@ -1203,10 +1347,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kimberly Barker</td>
                             <td>Accounting Intern</td>
                                <td>Department</td>
@@ -1217,10 +1363,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kimberly Miller</td>
                             <td>Treasury Analyst</td>
                                <td>Department</td>
@@ -1231,10 +1379,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kim McCallum</td>
                             <td>Contract Management Analyst</td>
                                <td>Department</td>
@@ -1245,10 +1395,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Korie Mitchell</td>
                             <td>Contract Management Analyst</td>
                                <td>Department</td>
@@ -1259,10 +1411,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kristi Arrington</td>
                             <td>VP, Growth by Design</td>
                                <td>Department</td>
@@ -1273,10 +1427,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Kyle Fowler</td>
                             <td>VP, Strategic Partnerships</td>
                                <td>Department</td>
@@ -1287,10 +1443,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Laura Gober</td>
                             <td>VP, Compliance &amp; Regulatory Services</td>
                                <td>Department</td>
@@ -1301,10 +1459,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Laura Heard</td>
                             <td>Operations Specialist</td>
                                <td>Department</td>
@@ -1315,10 +1475,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Laura Parr</td>
                             <td>Marketing Representative</td>
                                <td>Department</td>
@@ -1329,10 +1491,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Laura Vann</td>
                             <td>Sr. Director, Shared Branching</td>
                                <td>Department</td>
@@ -1343,10 +1507,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lauren Hivale</td>
                             <td>ATM Operations Assistant</td>
                                <td>Department</td>
@@ -1357,10 +1523,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lawrence Terrell McGrew</td>
                             <td>Staff Auditor</td>
                             <td>Department</td>
@@ -1371,10 +1539,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Leigh Anne Warlick</td>
                             <td>Coordinator, People &amp; Culture</td>
                                       <td>Department</td>
@@ -1385,10 +1555,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lina Guzman</td>
                             <td>Operations Assistant</td>
                                       <td>Department</td>
@@ -1399,10 +1571,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lindsey Cole</td>
                             <td>VP, Card Services</td>
                                       <td>Department</td>
@@ -1413,10 +1587,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lisa Felder</td>
                             <td>Due Diligence Coordinator</td>
                                       <td>Department</td>
@@ -1427,10 +1603,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lizeth George</td>
                             <td>Communications Coordinator</td>
                                       <td>Department</td>
@@ -1441,10 +1619,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lynn Hightower-Moore</td>
                             <td>General Manager</td>
                                       <td>Department</td>
@@ -1455,10 +1635,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Lizzie Henderson</td>
                             <td>Pre-Closer</td>
                                       <td>Department</td>
@@ -1469,10 +1651,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Malik Cummings</td>
                             <td>Accounting Intern</td>
                                       <td>Department</td>
@@ -1483,10 +1667,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Marcus King</td>
                             <td>VP, Audit and Compliance </td>
                                       <td>Department</td>
@@ -1497,10 +1683,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Mary Jaap</td>
                             <td>Director, Product Development</td>
                                       <td>Department</td>
@@ -1511,10 +1699,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Maureen Bock</td>
                             <td>Vice President, Education & Training</td>
                                       <td>Department</td>
@@ -1525,10 +1715,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Melissa Brown</td>
                             <td>Senior Accountant</td>
                                       <td>Department</td>
@@ -1539,10 +1731,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Michelle Benson-Sheffield</td>
                             <td>Closer</td>
                             <td>Department</td>
@@ -1553,10 +1747,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Mike Miller</td>
                             <td>Communications Manager</td>
                               <td>Department</td>
@@ -1567,10 +1763,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Mike Salomon Jr.</td>
                             <td>Closer</td>
                               <td>Department</td>
@@ -1581,10 +1779,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Mitzi Nebhut</td>
                             <td>Controller</td>
                               <td>Department</td>
@@ -1595,10 +1795,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Murphy Kennedy</td>
                             <td>Political Affairs and Grass Roots Coordinator (FL)</td>
                               <td>Department</td>
@@ -1609,10 +1811,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Nadine Ferere</td>
                             <td>Internet Products Project Coordinator</td>
                               <td>Department</td>
@@ -1623,10 +1827,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Nancy Golden</td>
                             <td>Exhibit & Sponsorship Manager</td>
                               <td>Department</td>
@@ -1637,10 +1843,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Nicole Irwin</td>
                             <td>Director, Business Development &amp; Client Relations</td>
                               <td>Department</td>
@@ -1651,10 +1859,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Patrick La Pine</td>
                             <td>CEO, LSCU & Affiliates</td>
                               <td>Department</td>
@@ -1665,10 +1875,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Philip Patrick</td>
                             <td>VP, Information Technology</td>
                               <td>Department</td>
@@ -1679,10 +1891,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Precious Boone</td>
                             <td>Member Service Representative</td>
                               <td>Department</td>
@@ -1693,10 +1907,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Preston Bowen</td>
                             <td>Jr. Systems Administrator</td>
                               <td>Department</td>
@@ -1707,10 +1923,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Reeta (Laureeta) Garrett</td>
                             <td>Senior Accountant</td>
                               <td>Department</td>
@@ -1721,10 +1939,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Rhashii Demps</td>
                             <td>Payments Solution Specialist</td>
                               <td>Department</td>
@@ -1735,10 +1955,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Samantha Beeler</td>
                             <td>President, Association Services</td>
                               <td>Department</td>
@@ -1749,10 +1971,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Shae Travis</td>
                             <td>Product Development Manager</td>
                               <td>Department</td>
@@ -1763,10 +1987,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Shakeira Salters</td>
                             <td>Operations Assistant</td>
                               <td>Department</td>
@@ -1777,10 +2003,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Shane Williamson</td>
                             <td>Systems Administrator</td>
                               <td>Department</td>
@@ -1791,10 +2019,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Sharon Dacres</td>
                             <td>Staff Accountant</td>
                               <td>Department</td>
@@ -1805,10 +2035,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Sharon Murphy</td>
                             <td>Compliance Consultant</td>
                               <td>Department</td>
@@ -1819,10 +2051,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Shelley Carroll Miller</td>
                             <td>Marketing Representative</td>
                               <td>Department</td>
@@ -1833,10 +2067,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Shirley Bell</td>
                             <td>Pre-Closer</td>
                               <td>Department</td>
@@ -1847,10 +2083,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Stephanie Hainje</td>
                             <td>Portfolio Consultant</td>
                               <td>Department</td>
@@ -1861,10 +2099,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Stephen Dunbar</td>
                             <td>Quality Assurance Officer</td>
                               <td>Department</td>
@@ -1875,10 +2115,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Steve Pullara</td>
                             <td>Business Development Consultant</td>
                               <td>Department</td>
@@ -1889,12 +2131,14 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Steve Willis</td>
-                            <td>President, LEVERAGE </em>
+                            <td>President, LEVERAGE</td>
                               <td>Department</td>
                             </td>
                             <td>850.558.1004</td>
@@ -1904,10 +2148,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Susan Lee</td>
                             <td>Member Engagement Consultant </em>
                               <td>Department</td>
@@ -1919,10 +2165,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Sydney Rubin</td>
                             <td>Sr. Director, Governmental Affairs (GA)</td>
                               <td>Department</td>
@@ -1933,10 +2181,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>TaKeya Robertson</td>
                             <td>Staff Auditor - AL</td>
                               <td>Department</td>
@@ -1947,10 +2197,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Tammy Cameron</td>
                             <td>Title Production Specialist</td>
                               <td>Department</td>
@@ -1961,10 +2213,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Tammy Williams</td>
                             <td>Member Service Representative</td>
                               <td>Department</td>
@@ -1975,10 +2229,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Taylor Sheffield</td>
                             <td>Business Development Consultant</td>
                               <td>Department</td>
@@ -1989,10 +2245,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Tieshia Akins</td>
                             <td>Contract Management Analyst</td>
                               <td>Department</td>
@@ -2003,10 +2261,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Tonya Yarborough</td>
                             <td>Executive Assistant</td>
                               <td>Department</td>
@@ -2017,10 +2277,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>W. Patrick Cockrell, Esq.</td>
                             <td>Closing Agent</td>
                               <td>Department</td>
@@ -2031,10 +2293,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Wen Hemingway</td>
                             <td>Chief Financial Officer</td>
                               <td>Department</td>
@@ -2045,10 +2309,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Zachery Gilbert</td>
                             <td>Staff Auditor</td>
                               <td>Department</td>
@@ -2059,10 +2325,12 @@
                               <td>Location</td>
                           </tr>
                           <tr>
-                                         <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
-                              <div class="name">Jessica McDaniel</div>
-                            </div>
+                           <td>
+                            <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <div class="name">Kate Heisler</div>
+                              </div>
+                          </td>
                             <td>Zephaniah Williams</td>
                             <td>Operations Specialist</td>
                               <td>Department</td>
