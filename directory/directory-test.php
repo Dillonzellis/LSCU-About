@@ -114,7 +114,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Abigail Endsley</div>
                               </div>
                             </td>
@@ -129,7 +129,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Alan Babcock</div>
                               </div>
                             </td>
@@ -144,7 +144,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Alisha Stair</div>
                               </div>
                             </td>
@@ -159,7 +159,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Allison Allen</div>
                               </div>
                             </td>
@@ -174,7 +174,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Amanda Lenhart</div>
                               </div>
                             </td>
@@ -189,7 +189,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Amanda Onkst</div>
                               </div>
                             </td>
@@ -204,7 +204,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Angela Harris</div>
                               </div>
                             </td>
@@ -219,7 +219,7 @@
                           <tr>
                             <td>
                             <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                               <div class="name">Anthony Roberts</div>
                             </div>
                             </td>
@@ -235,7 +235,7 @@
                           <tr>
                             <td>
                             <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                               <div class="name">Antoinette Plaster</div>
                             </div>
                             </td>
@@ -251,7 +251,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Arno Quon</div>
                                 </div>
                           </td>
@@ -266,7 +266,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Ashley Brown</div>
                               </div>
                           </td>
@@ -282,7 +282,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Ashley Martin</div>
                               </div>
                           </td>
@@ -298,7 +298,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Beatriz Arrocha</div>
                               </div>
                           </td>
@@ -314,7 +314,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Becky Moore</div>
                               </div>
                           </td>
@@ -330,7 +330,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Benjamin "Ben" Blackerby, Esq.</div>
                               </div>
                           </td>
@@ -346,7 +346,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Bill Berg</div>
                               </div>
                           </td>
@@ -362,7 +362,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Blake Westbrook</div>
                               </div>
                           </td>
@@ -378,7 +378,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Bobbi Grady</div>
                               </div>
                           </td>
@@ -394,7 +394,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Brooke Collins</div>
                               </div>
                           </td>
@@ -410,7 +410,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cameron Carswell</div>
                               </div>
                           </td>
@@ -426,7 +426,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cameron Hicks</div>
                               </div>
                           </td>
@@ -440,7 +440,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cara Dollinger</div>
                               </div>
                           </td>
@@ -456,7 +456,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Carol Simmonds</div>
                               </div>
                           </td>
@@ -472,7 +472,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Chelsea Riggle</div>
                               </div>
                           </td>
@@ -488,7 +488,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Chris Frentzel</div>
                               </div>
                           </td>
@@ -504,7 +504,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Chris Maddox</div>
                               </div>
                           </td>
@@ -520,7 +520,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Christine Poole</div>
                               </div>
                           </td>
@@ -536,7 +536,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Christopher Christensen</div>
                               </div>
                           </td>
@@ -552,7 +552,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cindy Gray</div>
                               </div>
                           </td>
@@ -568,7 +568,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Collin Joiner</div>
                               </div>
                           </td>
@@ -584,7 +584,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Crystal Gertjegerdes</div>
                               </div>
                           </td>
@@ -600,7 +600,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Bowman</div>
                               </div>
                           </td>
@@ -616,7 +616,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Hughes</div>
                               </div>
                           </td>
@@ -632,7 +632,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Nettles</div>
                               </div>
                           </td>
@@ -648,7 +648,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Pace</div>
                               </div>
                           </td>
@@ -664,7 +664,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Davis Hurst</div>
                               </div>
                           </td>
@@ -680,7 +680,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Desario Smith</div>
                               </div>
                           </td>
@@ -696,7 +696,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Dillon Ellis</div>
                               </div>
                           </td>
@@ -712,7 +712,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Donnette' Logan</div>
                               </div>
                           </td>
@@ -728,7 +728,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Doris Geohagan</div>
                               </div>
                           </td>
@@ -744,7 +744,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Eddie Reyes</div>
                               </div>
                           </td>
@@ -760,7 +760,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Edward Daffin II</div>
                               </div>
                           </td>
@@ -776,7 +776,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Elaine Minichiello</div>
                               </div>
                           </td>
@@ -792,7 +792,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Elizabeth Laffitte</div>
                               </div>
                           </td>
@@ -808,7 +808,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Erin Weber</div>
                               </div>
                           </td>
@@ -824,7 +824,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Evan Irwin - TN</div>
                               </div>
                           </td>
@@ -840,7 +840,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Evan Torney</div>
                               </div>
                           </td>
@@ -856,7 +856,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Felicia Hatten</div>
                               </div>
                           </td>
@@ -872,7 +872,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Garrett Mills</div>
                               </div>
                           </td>
@@ -888,7 +888,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Gerald McSwain</div>
                               </div>
                           </td>
@@ -904,7 +904,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Grace Newcombe</div>
                               </div>
                           </td>
@@ -920,7 +920,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Gwen Davis</div>
                               </div>
                           </td>
@@ -935,7 +935,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Hayley Moss</div>
                               </div>
                           </td>
@@ -951,7 +951,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jackie Locklar</div>
                               </div>
                           </td>
@@ -967,7 +967,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jaela Stephens</div>
                               </div>
                           </td>
@@ -983,7 +983,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jaime Garcia</div>
                               </div>
                           </td>
@@ -999,7 +999,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Janet Friedman</div>
                               </div>
                           </td>
@@ -1015,7 +1015,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Javont&eacute; Martinez</div>
                               </div>
                           </td>
@@ -1031,7 +1031,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jay Brady</div>
                               </div>
                           </td>
@@ -1047,7 +1047,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jeffrey Sharkey</div>
                               </div>
                           </td>
@@ -1063,7 +1063,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jennifer Krambeck</div>
                               </div>
                           </td>
@@ -1079,7 +1079,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jessica McDaniel</div>
                               </div>
                           </td>
@@ -1095,7 +1095,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jessica Thompson</div>
                               </div>
                           </td>
@@ -1111,7 +1111,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Joanna Forrester</div>
                               </div>
                           </td>
@@ -1127,7 +1127,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">John Ballantyne</div>
                               </div>
                           </td>
@@ -1141,7 +1141,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">John Rothell</div>
                               </div>
                           </td>
@@ -1157,7 +1157,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Joshua Swift</div>
                               </div>
                           </td>
@@ -1173,7 +1173,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Julian Gabriel</div>
                               </div>
                           </td>
@@ -1189,7 +1189,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Julie Yanes</div>
                               </div>
                           </td>
@@ -1205,7 +1205,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kaitlin Moore</div>
                               </div>
                           </td>
@@ -1221,7 +1221,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Karen Frazee</div>
                               </div>
                           </td>
@@ -1237,7 +1237,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Brady</div>
                               </div>
                           </td>
@@ -1253,7 +1253,7 @@
                           <tr>
                           <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1269,7 +1269,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1285,7 +1285,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1301,7 +1301,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1317,7 +1317,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1333,7 +1333,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1349,7 +1349,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1365,7 +1365,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1381,7 +1381,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1397,7 +1397,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1413,7 +1413,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1429,7 +1429,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1445,7 +1445,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1461,7 +1461,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1477,7 +1477,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1493,7 +1493,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1509,7 +1509,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1525,7 +1525,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1541,7 +1541,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1557,7 +1557,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1573,7 +1573,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1589,7 +1589,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1605,7 +1605,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1621,7 +1621,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1637,7 +1637,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1653,7 +1653,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1669,7 +1669,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1685,7 +1685,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1701,7 +1701,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1717,7 +1717,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1733,7 +1733,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1749,7 +1749,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1765,7 +1765,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1781,7 +1781,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1797,7 +1797,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1813,7 +1813,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1829,7 +1829,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1845,7 +1845,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1861,7 +1861,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1877,7 +1877,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1893,7 +1893,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1909,7 +1909,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1925,7 +1925,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1941,7 +1941,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1957,7 +1957,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1973,7 +1973,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -1989,7 +1989,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2005,7 +2005,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2021,7 +2021,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2037,7 +2037,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2053,7 +2053,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2069,7 +2069,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2085,7 +2085,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2101,7 +2101,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2117,7 +2117,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2133,14 +2133,14 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
                             <td>Steve Willis</td>
                             <td>President, LEVERAGE</td>
                               <td>Department</td>
-                            </td>
+                            
                             <td>850.558.1004</td>
                             <td>
                               <a href="mailto:Steve.Willis@myleverage.com" target="_parent">Steve.Willis@myleverage.com</a>
@@ -2150,14 +2150,14 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
                             <td>Susan Lee</td>
-                            <td>Member Engagement Consultant </em>
+                            <td>Member Engagement Consultant</td>
                               <td>Department</td>
-                            </td>
+                            
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:susan.lee@lscu.coop" target="_parent">susan.lee@lscu.coop</a>
@@ -2167,7 +2167,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2183,7 +2183,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2199,7 +2199,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2215,7 +2215,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2231,7 +2231,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2247,7 +2247,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2263,7 +2263,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2279,7 +2279,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2295,7 +2295,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2311,7 +2311,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
@@ -2327,7 +2327,7 @@
                           <tr>
                            <td>
                             <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
                           </td>
