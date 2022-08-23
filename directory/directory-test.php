@@ -312,464 +312,811 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Benjamin "Ben" Blackerby, Esq.</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Benjamin "Ben" Blackerby, Esq.</div>
+                            </div>
+                    
                             <td>Closing Agent</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Bill Berg</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Bill Berg</div>
+                            </div>
+                         
                             <td>VP, Compliance Training &amp; Information</td>
+                            <td>Department</td>
                             <td>850.558.1028</td>
                             <td>
                               <a href="mailto:Bill.Berg@lscu.coop" target="_parent">Bill.Berg@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Blake Westbrook</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Blake Westbrook</div>
+                            </div>
+                 
                             <td>Director, Political Action & Grassroots (AL & GA)</td>
+                            <td>Department</td>
                             <td>205.437.2164</td>
                             <td>
                               <a href="mailto:Blake.Westbrook@lscu.coop" target="_parent">Blake.Westbrook@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Bobbi Grady</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Bobbi Grady</div>
+                            </div>
+                        
                             <td>Development Coordinator (SECUF)</td>
+                            <td>Department</td>
                             <td>205.437.2128</td>
                             <td>
                               <a href="mailto:bobbi.grady@lscu.coop" target="_parent">bobbi.grady@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Brooke Collins</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Brooke Collins</div>
+                            </div>
+                        
                             <td>Manager, Sales and Service (CUVM)</td>
+                            <td>Department</td>
                             <td>850.558.1050</td>
                             <td>
                               <a href="mailto:Brooke@cuvm.org" target="_parent">Brooke@cuvm.org</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Cameron Carswell</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Cameron Carswell</div>
+                            </div>
+                         
                             <td>Senior Web Developer</td>
+                            <td>Department</td>
                             <td>678.542.3457</td>
                             <td>
                               <a href="mailto:cameronc@growthbydesign.org" target="_parent">cameronc@growthbydesign.org</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Cameron Hicks</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Cameron Hicks</div>
+                            </div>
+                
                             <td>Intern</td>
+                            <td>Department</td>
                             <td>904.832.0197</td>
                             <td>&nbsp;</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Cara Dollinger</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Cara Dollinger</div>
+                            </div>
+             
                             <td>Council Coordinator</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:cara.dollinger@lscu.coop" target="_parent">cara.dollinger@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Carol Simmonds</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Carol Simmonds</div>
+                            </div>
+                      
                             <td>Senior Staff Accountant</td>
+                            <td>Department</td>
                             <td>678.542.3411</td>
                             <td>
                               <a href="mailto:carol.simmonds@lscu.coop" target="_parent">carol.simmonds@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Chelsea Riggle</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Chelsea Riggle</div>
+                            </div>
+                   
                             <td>Recruiter</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:chelsea.riggle@lscu.coop" target="_parent">chelsea.riggle@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Chris Frentzel</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Chris Frentzel</div>
+                            </div>
+                     
                             <td>Video Production Intern</td>
+                            <td>Department</td>
                             <td>850.558.1156</td>
                             <td>
                               <a href="mailto:chris.frentzel@lscu.coop" target="_parent">chris.frentzel@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Chris Maddox</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Chris Maddox</div>
+                            </div>
+                    
                             <td>Creative Director</td>
+                            <td>Department</td>
                             <td>678.542.3491</td>
                             <td>
                               <a href="mailto:chrism@growthbydesign.org" target="_parent">chrism@growthbydesign.org</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Christine Poole</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Christine Poole</div>
+                            </div>
+                      
                             <td>Exhibit & Sponsorhip Manager</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:christine.poole@lscu.coop" target="_parent">christine.poole@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Christopher Christensen</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Christopher Christensen</div>
+                            </div>
+                   
                             <td>Member Service Representative</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:Christoper.Christensen@lscu.coop" target="_parent">Christoper.Christensen@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Cindy Gray</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Cindy Gray</div>
+                            </div>
+                     
                             <td>Title Production Specialist</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Collin Joiner</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Collin Joiner</div>
+                            </div>
+                
                             <td>Staff Auditor - TN</td>
+                            <td>Department</td>
                             <td>205.437.2110</td>
                             <td>
                               <a href="mailto:collin.joiner@cuacg.com" target="_parent">collin.joiner@cuacg.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Crystal Gertjegerdes</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Crystal Gertjegerdes</div>
+                            </div>
+                       
                             <td>Customer Service Representative</td>
+                            <td>Department</td>
                             <td>678.542.3441</td>
                             <td>
                               <a href="mailto:crystal.gertjegerdes@lscu.coop" target="_parent">crystal.gertjegerdes@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>David Bowman</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">David Bowman</div>
+                            </div>
+                
                             <td>VP, People & Culture</td>
+                            <td>Department</td>
                             <td>850.558.1074</td>
                             <td>
                               <a href="mailto:david.bowman@lscu.coop" target="_parent">david.bowman@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>David Hughes</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">David Hughes</div>
+                            </div>
+             
                             <td>Director, Product Management</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:david.hughes@lscu.coop" target="_parent">david.hughes@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>David Nettles</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">David Nettles</div>
+                            </div>
+           
                             <td>VP, LEVERAGE Payment Solutions</td>
+                            <td>Department</td>
                             <td>850.558.1132</td>
                             <td>
                               <a href="mailto:david.nettles@lscu.coop" target="_parent">david.nettles@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>David Pace</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">David Pace</div>
+                            </div>
+                       
                             <td>Manager, Regulatory Advocacy</td>
+                            <td>Department</td>
                             <td>314.750.6407</td>
                             <td>
                               <a href="mailto:david.pace@lscu.coop" target="_parent">david.pace@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Davis Hurst</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Davis Hurst</div>
+                            </div>
+                      
                             <td>Abstractor</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Desario Smith</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Desario Smith</div>
+                            </div>
+                      
                             <td>Manager of Vendor Relations</td>
+                            <td>Department</td>
                             <td>850.558.1030</td>
                             <td>
                               <a href="mailto:desario@cuvm.org" target="_parent">desario@cuvm.org</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Dillon Ellis</td>
-                            <td>Jr. Web Developer</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Dillon Ellis</div>
+                            </div>
+                    
+                            <td>Web Developer</td>
+                            <td>Department</td>
                             <td>850.558.1030</td>
                             <td>
                               <a href="mailto:dillon@growthbydesign.org" target="_parent">dillon@growthbydesign.org</a>
                             </td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
-                            <td>Donnette' Logan</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Donnette' Logan</div>
+                            </div>
+                      
                             <td>Business Development Consultant</td>
+                            <td>Department</td>
                             <td>205.437.2151</td>
                             <td>
                               <a href="mailto:donnette.logan@myleverage.com" target="_parent">donnette.logan@myleverage.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Doris Geohagan</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Doris Geohagan</div>
+                            </div>
+                    
                             <td>Senior Staff Accountant</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:doris.geohagan@lscu.coop" target="_parent">doris.geohagan@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Eddie Reyes</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Eddie Reyes</div>
+                            </div>
+                    
                             <td>Network Engineer</td>
+                            <td>Department</td>
                             <td>850.558.1168</td>
                             <td>
                               <a href="eddie.reyes@lscu.coop" target="_parent">eddie.reyes@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Edward Daffin II</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Edward Daffin II</div>
+                            </div>
+                        
                             <td>Auditor</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:edward.daffin@cuacg.com" target="_parent">edward.daffin@cuacg.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Elaine Minichiello</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Elaine Minichiello</div>
+                            </div>
+                          
                             <td>Staff Accountant</td>
+                            <td>Department</td>
                             <td>850.558.1168</td>
                             <td>
                               <a href="elaine.minichiello@lscu.coop" target="_parent">elaine.minichiello@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Elizabeth Laffitte</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Elizabeth Laffitte</div>
+                            </div>
+                       
                             <td>Salesforce Developer</td>
+                            <td>Department</td>
                             <td>850.558.1036</td>
                             <td>
                               <a href="liz.laffitte@lscu.coop" target="_parent">liz.laffitte@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Erin Weber</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Erin Weber</div>
+                            </div>
+        
                             <td>Title Production Specialist</td>
+                            <td>Department</td>
                             <td>205.421.1017</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Evan Irwin - TN</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Evan Irwin - TN</div>
+                            </div>
+                        
                             <td>Staff Auditor </td>
+                            <td>Department</td>
                             <td>205.437.2139</td>
                             <td>
                               <a href="mailto:evan.irwin@cuacg.com" target="_parent">evan.irwin@cuacg.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Evan Torney</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Evan Torney</div>
+                            </div>
+                       
                             <td>Events Coordinator</td>
+                            <td>Department</td>
                             <td>805.558.1046</td>
                             <td>
                               <a href="mailto:evin.torney@lscu.coop" target="_parent">evin.torney@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Felicia Hatten</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Felicia Hatten</div>
+                            </div>
+                
                             <td>Pre-Closer</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Garrett Mills</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Garrett Mills</div>
+                            </div>
+                        
                             <td>ATM Operations Specialist</td>
+                            <td>Department</td>
                             <td>678.542.3409</td>
                             <td>
                               <a href="mailto:garrett.mills@lscu.coop" target="_parent">garrett.mills@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Gerald McSwain</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Gerald McSwain</div>
+                            </div>
+                       
                             <td>Operations Manager</td>
+                            <td>Department</td>
                             <td>850.558.1124</td>
                             <td>
                               <a href="mailto:Gerald.McSwain@lscu.coop" target="_parent">Gerald.McSwain@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Grace Newcombe</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Grace Newcombe</div>
+                            </div>
+                    
                             <td>Sr. Director, Federal Advocacy & Communications</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:grace.newcombe@lscu.coop" target="_parent">grace.newcombe@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Gwen Davis</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Gwen Davis</div>
+                            </div>
                             <td>Member Service Representative</td>
+                            <td>Department</td>
                             <td>850.558.1186</td>
                             <td>
                               <a href="mailto:gwen.davis@myleverage.com" target="_parent">gwen.davis@myleverage.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Hayley Moss</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Hayley Moss</div>
+                            </div>
+                    
                             <td>Events Coordinator</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:hayley.moss@lscu.coop" target="_parent">hayley.moss@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jackie Locklar</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jackie Locklar</div>
+                            </div>
+                  
                             <td>Director, Accounting</td>
+                            <td>Department</td>
                             <td>678.542.3477</td>
                             <td>
                               <a href="mailto:jackie.locklar@lscu.coop" target="_parent">jackie.locklar@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jaela Stephens</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jaela Stephens</div>
+                            </div>
+                    
                             <td>Operations Assistant</td>
+                            <td>Department</td>
                             <td>850.558.1000</td>
                             <td>
                               <a href="mailto:jaela.stephens@lscu.coop" target="_parent">jaela.stephens@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jaime Garcia</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jaime Garcia</div>
+                            </div>
+              
                             <td>Closing Agent</td>
+                            <td>Department</td>
                             <td>205.421.1026</td>
                             <td>
                               <a href="mailto:jaime@commonbondtitle.com" target="_parent">jaime@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Janet Friedman</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Janet Friedman</div>
+                            </div>
+                         
                             <td>Post Closer</td>
+                            <td>Department</td>
                             <td>205.421.1019</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Javont&eacute; Martinez</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Javont&eacute; Martinez</div>
+                            </div>
+                     
                             <td>Staff Auditor</td>
+                            <td>Department</td>
                             <td>-</td>
                             <td>
                               <a href="mailto:javonte.martinez@cuacg.com" target="_parent">javonte.martinez@cuacg.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jay Brady</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jay Brady</div>
+                            </div>
+                          
                             <td>Director, Consultative Services</td>
+                            <td>Department</td>
                             <td>850.558.1106</td>
                             <td>
                               <a href="mailto:jay.brady@myleverage.com" target="_parent">jay.brady@myleverage.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jeffrey Sharkey</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jeffrey Sharkey</div>
+                            </div>
+                          
                             <td>Treasury Consultant</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:jsharkey@teamonecu.org">jsharkey@teamonecu.org</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jennifer Krambeck</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jennifer Krambeck</div>
+                            </div>
+                     
                             <td>Accountant I</td>
+                            <td>Department</td>
                             <td>850.558.1106</td>
                             <td>
                               <a href="mailto:jennifer.krambeck@lscu.coop">jennifer.krambeck@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jessica McDaniel</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jessica McDaniel</div>
+                            </div>
+                    
                             <td>VP of P&C</td>
+                            <td>Department</td>
                             <td>850.558.1074</td>
                             <td>
                               <a href="mailto:jessica.mcdaniel@lscu.coop" target="_parent">jessica.mcdaniel@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Jessica Thompson</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Jessica Thompson</div>
+                            </div>
+                    
                             <td>Assistant Controller</td>
+                            <td>Department</td>
                             <td>678.542.3414</td>
                             <td>
                               <a href="mailto:Jessica.Thompson@lscu.coop" target="_parent">jessica.thompson@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Joanna Forrester</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Joanna Forrester</div>
+                            </div>
+                     
                             <td>Senior Production Artist</td>
+                            <td>Department</td>
                             <td>850.558.1020</td>
                             <td>
                               <a href="mailto:Joanna.Forrester@lscu.coop" target="_parent">Joanna.Forrester@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>John Ballantyne</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">John Ballantyne</div>
+                            </div>
+                        
                             <td>Cash Management CUSO</td>
+                            <td>Department</td>
                             <td>&nbsp;</td>
                             <td>&nbsp;</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>John Rothell</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">John Rothell</div>
+                            </div>
+                          
                             <td>Sr. Director, Governmental Affairs (FL)</td>
+                            <td>Department</td>
                             <td>850.558.1142</td>
                             <td>
                               <a href="mailto:john.rothell@lscu.coop" target="_parent">john.rothell@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Joshua Swift</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Joshua Swift</div>
+                            </div>
+                  
                             <td>Auditor</td>
+                            <td>Department</td>
                             <td>&nbsp;</td>
                             <td>
                               <a href="mailto:joshua.swift@cuacg.com">joshua.swift@cuacg.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Julian Gabriel</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Julian Gabriel</div>
+                            </div>
+                   
                             <td>Talent Acquistition Specialist</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:julian.gabriel@lscu.coop" target="_parent">julian.gabriel@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Julie Yanes</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Julie Yanes</div>
+                            </div>
+              
                             <td>Manager, Operations</td>
+                            <td>Department</td>
                             <td>678.542.3439</td>
                             <td>
                               <a href="mailto:julie.yanes@lscu.coop" target="_parent">julie.yanes@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Kaitlin Moore</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Kaitlin Moore</div>
+                            </div>
+               
                             <td>Pre-Closer</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Karen Frazee</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Karen Frazee</div>
+                            </div>
+                    
                             <td>VP, Business Development</td>
+                            <td>Department</td>
                             <td>850.558.1112</td>
                             <td>
                               <a href="mailto:karen.frazee@myleverage.com" target="_parent">karen.frazee@myleverage.com</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                            <td>Kate Brady</td>
+                          <div class="img-wrapper">
+                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="" srcset="">
+                              <div class="name">Kate Brady</div>
+                            </div>
+             
                             <td>Executive Assistant to CEO</td>
+                            <td>Department</td>
                             <td>850.558.1060</td>
                             <td>
                               <a href="mailto:kate.brady@lscu.coop" target="_parent">kate.brady@lscu.coop</a>
                             </td>
+                            <td>Location</td>
                           </tr>
                           <tr>
                             <td>Kate Heisler</td>
