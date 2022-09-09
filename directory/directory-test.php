@@ -151,7 +151,7 @@
                               </div>
                             </td>
                             <td>Member Engagement Consultant</td>
-                            <td>Education</td>
+                            <td>Member Engagement</td>
                             <td>205.437.2111</td>
                             <td>
                               <a href="mailto:alisha.stair@lscu.coop" target="_parent">alisha.stair@lscu.coop</a>
@@ -228,7 +228,7 @@
                             </td>
 
                             <td>Compliance Consultant</td>
-                            <td>Department</td>
+                            <td>Compliance Services</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:tony.roberts@lscu.coop" target="_parent">tony.roberts@lscu.coop</a>
@@ -260,7 +260,7 @@
                               </div>
                             </td>
                             <td>Member Engagement Consultant</td>
-                            <td>Department</td>
+                            <td>Member Engagement</td>
                             <td>678.542.3511</td>
                             <td>
                               <a href="mailto:arno.quon@lscu.coop" target="_parent">arno.quon@lscu.coop</a>
@@ -326,7 +326,7 @@
                             </td>
 
                             <td>Administrative Assistant</td>
-                            <td>Department</td>
+                            <td>Association Services</td>
                             <td>678.542.3449</td>
                             <td>
                               <a href="mailto:becky.moore@lscu.coop" target="_parent">becky.moore@lscu.coop</a>
@@ -359,7 +359,7 @@
                             </td>
 
                             <td>VP, Compliance Training &amp; Information</td>
-                            <td>Department</td>
+                            <td>Compliance Services</td>
                             <td>850.558.1028</td>
                             <td>
                               <a href="mailto:Bill.Berg@lscu.coop" target="_parent">Bill.Berg@lscu.coop</a>
@@ -375,7 +375,7 @@
                             </td>
 
                             <td>Director, Political Action & Grassroots (AL & GA)</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>205.437.2164</td>
                             <td>
                               <a href="mailto:Blake.Westbrook@lscu.coop" target="_parent">Blake.Westbrook@lscu.coop</a>
@@ -391,7 +391,7 @@
                             </td>
 
                             <td>Development Coordinator (SECUF)</td>
-                            <td>Department</td>
+                            <td>Member Engagement</td>
                             <td>205.437.2128</td>
                             <td>
                               <a href="mailto:bobbi.grady@lscu.coop" target="_parent">bobbi.grady@lscu.coop</a>
@@ -454,7 +454,7 @@
                             </td>
 
                             <td>Council Coordinator</td>
-                            <td>Department</td>
+                            <td>Education & Training</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:cara.dollinger@lscu.coop" target="_parent">cara.dollinger@lscu.coop</a>
@@ -617,7 +617,7 @@
                             </td>
 
                             <td>VP, People & Culture</td>
-                            <td>Department</td>
+                            <td>People & Culture</td>
                             <td>850.558.1074</td>
                             <td>
                               <a href="mailto:david.bowman@lscu.coop" target="_parent">david.bowman@lscu.coop</a>
@@ -665,7 +665,7 @@
                             </td>
 
                             <td>Manager, Regulatory Advocacy</td>
-                            <td>Department</td>
+                            <td>Compliance Services</td>
                             <td>314.750.6407</td>
                             <td>
                               <a href="mailto:david.pace@lscu.coop" target="_parent">david.pace@lscu.coop</a>
@@ -746,8 +746,8 @@
                               </div>
                             </td>
 
-                            <td>Senior Staff Accountant</td>
-                            <td>Department</td>
+                            <td>Senior Accountant</td>
+                            <td>Finance & Accounting</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:doris.geohagan@lscu.coop" target="_parent">doris.geohagan@lscu.coop</a>
@@ -763,7 +763,7 @@
                             </td>
 
                             <td>Network Engineer</td>
-                            <td>Department</td>
+                            <td>Information Technology</td>
                             <td>850.558.1168</td>
                             <td>
                               <a href="eddie.reyes@lscu.coop" target="_parent">eddie.reyes@lscu.coop</a>
@@ -795,7 +795,7 @@
                             </td>
 
                             <td>Staff Accountant</td>
-                            <td>Department</td>
+                            <td>Finance & Accounting</td>
                             <td>850.558.1168</td>
                             <td>
                               <a href="elaine.minichiello@lscu.coop" target="_parent">elaine.minichiello@lscu.coop</a>
@@ -860,7 +860,7 @@
                             </td>
 
                             <td>Events Coordinator</td>
-                            <td>Department</td>
+                            <td>Education & Training</td>
                             <td>805.558.1046</td>
                             <td>
                               <a href="mailto:evin.torney@lscu.coop" target="_parent">evin.torney@lscu.coop</a>
@@ -909,7 +909,7 @@
                             </td>
 
                             <td>Operations Manager</td>
-                            <td>Department</td>
+                            <td>Operations</td>
                             <td>850.558.1124</td>
                             <td>
                               <a href="mailto:Gerald.McSwain@lscu.coop" target="_parent">Gerald.McSwain@lscu.coop</a>
@@ -925,7 +925,7 @@
                             </td>
 
                             <td>Sr. Director, Federal Advocacy & Communications</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:grace.newcombe@lscu.coop" target="_parent">grace.newcombe@lscu.coop</a>
@@ -956,7 +956,7 @@
                             </td>
 
                             <td>Events Coordinator</td>
-                            <td>Department</td>
+                            <td>Education & Training</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:hayley.moss@lscu.coop" target="_parent">hayley.moss@lscu.coop</a>
@@ -972,7 +972,7 @@
                             </td>
 
                             <td>Director, Accounting</td>
-                            <td>Department</td>
+                            <td>Finance & Accounting</td>
                             <td>678.542.3477</td>
                             <td>
                               <a href="mailto:jackie.locklar@lscu.coop" target="_parent">jackie.locklar@lscu.coop</a>
@@ -1119,7 +1119,7 @@
                             </td>
 
                             <td>Assistant Controller</td>
-                            <td>Department</td>
+                            <td>Finance & Accounting</td>
                             <td>678.542.3414</td>
                             <td>
                               <a href="mailto:Jessica.Thompson@lscu.coop"
@@ -1167,7 +1167,7 @@
                             </td>
 
                             <td>Sr. Director, Governmental Affairs (FL)</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>850.558.1142</td>
                             <td>
                               <a href="mailto:john.rothell@lscu.coop" target="_parent">john.rothell@lscu.coop</a>
@@ -1199,7 +1199,7 @@
                             </td>
 
                             <td>Talent Acquistition Specialist</td>
-                            <td>Department</td>
+                            <td>People & Culture</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:julian.gabriel@lscu.coop" target="_parent">julian.gabriel@lscu.coop</a>
@@ -1313,7 +1313,7 @@
                             </td>
 
                             <td>Compliance Coordinator</td>
-                            <td>Department</td>
+                            <td>Compliance Services</td>
                             <td>678.542.3502</td>
                             <td>
                               <a href="mailto:kela.wingard@lscu.coop" target="_parent">kela.wingard@lscu.coop</a>
@@ -1379,7 +1379,7 @@
                             </td>
 
                             <td>Accounting Intern</td>
-                            <td>Department</td>
+                            <td>Finance & Accounting</td>
                             <td>810.545.8049</td>
                             <td>
                               <a href="mailto:kimberly.barker@lscu.coop" target="_parent">kimberly.barker@lscu.coop</a>
@@ -1477,7 +1477,7 @@
                             </td>
 
                             <td>VP, Compliance &amp; Regulatory Services</td>
-                            <td>Department</td>
+                            <td>Compliance Services</td>
                             <td>678.542.3453</td>
                             <td>
                               <a href="mailto:laura.gober@lscu.coop" target="_parent">laura.gober@lscu.coop</a>
@@ -1574,7 +1574,7 @@
                             </td>
 
                             <td>Coordinator, People &amp; Culture</td>
-                            <td>Department</td>
+                            <td>People & Culture</td>
                             <td>678.542.3521</td>
                             <td>
                               <a href="mailto:leighanne.warlick@lscu.coop"
@@ -1640,7 +1640,7 @@
                             </td>
 
                             <td>Communications Coordinator</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:lizeth.george@lscu.coop" target="_parent">lizeth.george@lscu.coop</a>
@@ -1689,8 +1689,8 @@
                               </div>
                             </td>
 
-                            <td>Accounting Intern</td>
-                            <td>Department</td>
+                            <td>Staff Accountant</td>
+                            <td>Finance & Accounting</td>
                             <td>850.558.1040</td>
                             <td>
                               <a href="mailto:malik.cummings@lscu.coop" target="_parent">Malik.Cummings@lscu.coop</a>
@@ -1738,7 +1738,7 @@
                             </td>
 
                             <td>Vice President, Education & Training</td>
-                            <td>Department</td>
+                            <td>Education & Training</td>
                             <td>678.542.3437</td>
                             <td>
                               <a href="mailto:maureen.bock@lscu.coop" target="_parent">maureen.bock@lscu.coop</a>
@@ -1754,7 +1754,7 @@
                             </td>
                         
                             <td>Senior Accountant</td>
-                            <td>Department</td>
+                            <td>Finance & Accounting</td>
                             <td>678.542.3507</td>
                             <td>
                               <a href="mailto:melissa_brown@lscu.coop" target="_parent">melissa_brown@lscu.coop</a>
@@ -1787,7 +1787,7 @@
                             </td>
 
                             <td>Communications Manager</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>850.558.1176</td>
                             <td>
                               <a href="mailto:mike.miller@lscu.coop" target="_parent">mike.miller@lscu.coop</a>
@@ -1819,7 +1819,7 @@
                             </td>
 
                             <td>Controller</td>
-                            <td>Department</td>
+                            <td>Finance & Accounting</td>
                             <td>850.558.1138</td>
                             <td>
                               <a href="mailto:mitzi.nebhut@lscu.coop" target="_parent">mitzi.nebhut@lscu.coop</a>
@@ -1835,7 +1835,7 @@
                             </td>
 
                             <td>Political Affairs and Grass Roots Coordinator (FL)</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>850.558.3500</td>
                             <td>
                               <a href="mailto:murphy.kennedy@lscu.coop" target="_parent">murphy.kennedy@lscu.coop</a>
@@ -1868,7 +1868,7 @@
                             </td>
 
                             <td>Exhibit & Sponsorship Manager</td>
-                            <td>Department</td>
+                            <td>Education & Training</td>
                             <td>678.542.3463</td>
                             <td>
                               <a href="mailto:nancy.golden@lscu.coop" target="_parent">nancy.golden@lscu.coop</a>
@@ -1916,7 +1916,7 @@
                             </td>
 
                             <td>VP, Information Technology</td>
-                            <td>Department</td>
+                            <td>Information Technology</td>
                             <td>678.542.3405</td>
                             <td>
                               <a href="mailto:philip.patrick@lscu.coop" target="_parent">philip.patrick@lscu.coop</a>
@@ -1949,7 +1949,7 @@
                             </td>
 
                             <td>Jr. Systems Administrator</td>
-                            <td>Department</td>
+                            <td>Information Technology</td>
                             <td>850.558.1022</td>
                             <td>
                               <a href="mailto:Preston.Bowen@lscu.coop" target="_parent">preston.bowen@lscu.coop</a>
@@ -1982,7 +1982,7 @@
                             </td>
 
                             <td>President, Association Services</td>
-                            <td>Department</td>
+                            <td>LSCU</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:samantha.beeler@lscu.coop" target="_parent">samantha.beeler@lscu.coop</a>
@@ -2013,8 +2013,8 @@
                               </div>
                             </td>
 
-                            <td>Operations Assistant</td>
-                            <td>Department</td>
+                            <td>Accountant I</td>
+                            <td>Finance & Accounting</td>
                             <td>850.558.1054</td>
                             <td>
                               <a href="mailto:Shakeira.Salters@lscu.coop"
@@ -2031,7 +2031,7 @@
                             </td>
 
                             <td>Systems Administrator</td>
-                            <td>Department</td>
+                            <td>Information Technology</td>
                             <td>850.558.1166</td>
                             <td>
                               <a href="mailto:shane.williamson@lscu.coop"
@@ -2050,7 +2050,7 @@
                             </td>
 
                             <td>Compliance Consultant</td>
-                            <td>Department</td>
+                            <td>Compliance Services</td>
                             <td>678.542.3500</td>
                             <td>
                               <a href="mailto:sharon.murphy@lscu.coop" target="_parent">sharon.murphy@lscu.coop</a>
@@ -2168,7 +2168,7 @@
                             </td>
 
                             <td>Member Engagement Consultant</td>
-                            <td>Department</td>
+                            <td>Member Engagement</td>
 
                             <td>866.231.0545</td>
                             <td>
@@ -2185,7 +2185,7 @@
                             </td>
 
                             <td>Sr. Director, Governmental Affairs (GA)</td>
-                            <td>Department</td>
+                            <td>Advocacy</td>
                             <td>678.542.3444</td>
                             <td>
                               <a href="mailto:sydney.rubin@lscu.coop" target="_parent">sydney.rubin@lscu.coop</a>
@@ -2318,7 +2318,7 @@
                             </td>
 
                             <td>Chief Financial Officer</td>
-                            <td>Department</td>
+                            <td>Finance & Administration</td>
                             <td>850.558.1110</td>
                             <td>
                               <a href="mailto:wen.hemingway@lscu.coop" target="_parent">wen.hemingway@lscu.coop</a>
@@ -2350,7 +2350,7 @@
                             </td>
 
                             <td>Operations Specialist</td>
-                            <td>Department</td>
+                            <td>Operations</td>
                             <td>850.558.1000</td>
                             <td>
                               <a href="mailto:zephaniah.williams@lscu.coop"
