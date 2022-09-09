@@ -156,7 +156,7 @@
                             <td>
                               <a href="mailto:alisha.stair@lscu.coop" target="_parent">alisha.stair@lscu.coop</a>
                             </td>
-                            <td>Tallahassee</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -171,7 +171,7 @@
                             <td>
                               <a href="mailto:allison.allen@lscu.coop" target="_parent">allison.allen@lscu.coop</a>
                             </td>
-                            <td>Tallahassee</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -186,7 +186,7 @@
                             <td>
                               <a href="mailto:amanda.lenhart@cuacg.com" target="_parent">amanda.lenhart@cuacg.com</a>
                             </td>
-                            <td>Duluth</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -201,7 +201,7 @@
                             <td>
                               <a href="mailto:amanda.onkst@cuacg.com" target="_parent">amanda.onkst@cuacg.com</a>
                             </td>
-                            <td>Duluth</td>
+                            <td>Remote</td>
                           </tr>
                            <tr>
                             <td>
@@ -217,7 +217,7 @@
                               <a href="mailto:angela.harris@myleverage.com"
                                 target="_parent">angela.harris@myleverage.com</a>
                             </td>
-                            <td>Duluth</td>
+                            <td>Tallahassee</td>
                           </tr>
                          <tr>
                             <td>
@@ -250,7 +250,7 @@
                               <a href="mailto:antoinette.plaster@myleverage.com"
                                 target="_parent">antoinette.plaster@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -265,7 +265,7 @@
                             <td>
                               <a href="mailto:arno.quon@lscu.coop" target="_parent">arno.quon@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -282,7 +282,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -315,7 +315,7 @@
                             <td>
                               <a href="mailto:beatriz.arrocha@lscu.coop" target="_parent">beatriz.arrocha@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -331,7 +331,7 @@
                             <td>
                               <a href="mailto:becky.moore@lscu.coop" target="_parent">becky.moore@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -364,7 +364,7 @@
                             <td>
                               <a href="mailto:Bill.Berg@lscu.coop" target="_parent">Bill.Berg@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -380,7 +380,7 @@
                             <td>
                               <a href="mailto:Blake.Westbrook@lscu.coop" target="_parent">Blake.Westbrook@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -396,7 +396,7 @@
                             <td>
                               <a href="mailto:bobbi.grady@lscu.coop" target="_parent">bobbi.grady@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -412,7 +412,7 @@
                             <td>
                               <a href="mailto:Brooke@cuvm.org" target="_parent">Brooke@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -429,7 +429,7 @@
                               <a href="mailto:cameronc@growthbydesign.org"
                                 target="_parent">cameronc@growthbydesign.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -459,7 +459,7 @@
                             <td>
                               <a href="mailto:cara.dollinger@lscu.coop" target="_parent">cara.dollinger@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -507,7 +507,7 @@
                             <td>
                               <a href="mailto:chris.frentzel@lscu.coop" target="_parent">chris.frentzel@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -523,7 +523,7 @@
                             <td>
                               <a href="mailto:chrism@growthbydesign.org" target="_parent">chrism@growthbydesign.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -556,7 +556,7 @@
                               <a href="mailto:Christoper.Christensen@lscu.coop"
                                 target="_parent">Christoper.Christensen@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -573,7 +573,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -589,7 +589,7 @@
                             <td>
                               <a href="mailto:collin.joiner@cuacg.com" target="_parent">collin.joiner@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -606,7 +606,7 @@
                               <a href="mailto:crystal.gertjegerdes@lscu.coop"
                                 target="_parent">crystal.gertjegerdes@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr> 
                           <tr>
                             <td>
@@ -638,7 +638,7 @@
                             <td>
                               <a href="mailto:david.hughes@lscu.coop" target="_parent">david.hughes@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -654,7 +654,7 @@
                             <td>
                               <a href="mailto:david.nettles@lscu.coop" target="_parent">david.nettles@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -670,7 +670,7 @@
                             <td>
                               <a href="mailto:david.pace@lscu.coop" target="_parent">david.pace@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -687,7 +687,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -703,7 +703,7 @@
                             <td>
                               <a href="mailto:desario@cuvm.org" target="_parent">desario@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -736,7 +736,7 @@
                               <a href="mailto:donnette.logan@myleverage.com"
                                 target="_parent">donnette.logan@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -752,7 +752,7 @@
                             <td>
                               <a href="mailto:doris.geohagan@lscu.coop" target="_parent">doris.geohagan@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -768,7 +768,7 @@
                             <td>
                               <a href="eddie.reyes@lscu.coop" target="_parent">eddie.reyes@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -800,7 +800,7 @@
                             <td>
                               <a href="elaine.minichiello@lscu.coop" target="_parent">elaine.minichiello@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -816,7 +816,7 @@
                             <td>
                               <a href="liz.laffitte@lscu.coop" target="_parent">liz.laffitte@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -833,7 +833,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -849,7 +849,7 @@
                             <td>
                               <a href="mailto:evan.irwin@cuacg.com" target="_parent">evan.irwin@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -865,7 +865,7 @@
                             <td>
                               <a href="mailto:evin.torney@lscu.coop" target="_parent">evin.torney@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -882,7 +882,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -898,7 +898,7 @@
                             <td>
                               <a href="mailto:garrett.mills@lscu.coop" target="_parent">garrett.mills@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -914,7 +914,7 @@
                             <td>
                               <a href="mailto:Gerald.McSwain@lscu.coop" target="_parent">Gerald.McSwain@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -930,7 +930,7 @@
                             <td>
                               <a href="mailto:grace.newcombe@lscu.coop" target="_parent">grace.newcombe@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -945,7 +945,7 @@
                             <td>
                               <a href="mailto:gwen.davis@myleverage.com" target="_parent">gwen.davis@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -961,7 +961,7 @@
                             <td>
                               <a href="mailto:hayley.moss@lscu.coop" target="_parent">hayley.moss@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -977,7 +977,7 @@
                             <td>
                               <a href="mailto:jackie.locklar@lscu.coop" target="_parent">jackie.locklar@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1009,7 +1009,7 @@
                             <td>
                               <a href="mailto:jaime@commonbondtitle.com" target="_parent">jaime@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1026,7 +1026,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1043,7 +1043,7 @@
                               <a href="mailto:javonte.martinez@cuacg.com"
                                 target="_parent">javonte.martinez@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1125,7 +1125,7 @@
                               <a href="mailto:Jessica.Thompson@lscu.coop"
                                 target="_parent">jessica.thompson@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1142,7 +1142,7 @@
                               <a href="mailto:Joanna.Forrester@lscu.coop"
                                 target="_parent">Joanna.Forrester@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1172,7 +1172,7 @@
                             <td>
                               <a href="mailto:john.rothell@lscu.coop" target="_parent">john.rothell@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1204,7 +1204,7 @@
                             <td>
                               <a href="mailto:julian.gabriel@lscu.coop" target="_parent">julian.gabriel@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1220,7 +1220,7 @@
                             <td>
                               <a href="mailto:julie.yanes@lscu.coop" target="_parent">julie.yanes@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1237,7 +1237,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1254,7 +1254,7 @@
                               <a href="mailto:karen.frazee@myleverage.com"
                                 target="_parent">karen.frazee@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1286,7 +1286,7 @@
                             <td>
                               <a href="mailto:kate@commonbondtitle.com" target="_parent">kate@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1318,7 +1318,7 @@
                             <td>
                               <a href="mailto:kela.wingard@lscu.coop" target="_parent">kela.wingard@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1334,7 +1334,7 @@
                             <td>
                               <a href="mailto:kelli@cuvm.org" target="_parent">kelli@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1351,7 +1351,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1368,7 +1368,7 @@
                               <a href="mailto:khatara.lott-evans@cuacg.com"
                                 target="_parent">khatara.lott-evans@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1384,7 +1384,7 @@
                             <td>
                               <a href="mailto:kimberly.barker@lscu.coop" target="_parent">kimberly.barker@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1417,7 +1417,7 @@
                             <td>
                               <a href="mailto:kim@cuvm.org" target="_parent">kim@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1450,7 +1450,7 @@
                               <a href="mailto:kristi.arrington@lscu.coop"
                                 target="_parent">kristi.arrington@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1466,7 +1466,7 @@
                             <td>
                               <a href="mailto:kyle.fowler@lscu.coop" target="_parent">kyle.fowler@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1482,7 +1482,7 @@
                             <td>
                               <a href="mailto:laura.gober@lscu.coop" target="_parent">laura.gober@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1498,7 +1498,7 @@
                             <td>
                               <a href="mailto:laura.heard@cusc-al.com" target="_parent">laura.heard@cusc-al.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1515,7 +1515,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1531,7 +1531,7 @@
                             <td>
                               <a href="mailto:laura.vann@CUSC-AL.COM" target="_parent">laura.vann@CUSC-AL.COM</a>
                             </td>
-                            <td>Location</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -1547,7 +1547,7 @@
                             <td>
                               <a href="mailto:lauren.hivale@lscu.coop" target="_parent">lauren.hivale@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1563,7 +1563,7 @@
                             <td>
                               <a href="mailto:terrell.mcgrew@cuacg.com" target="_parent">terrell.mcgrew@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1580,7 +1580,7 @@
                               <a href="mailto:leighanne.warlick@lscu.coop"
                                 target="_parent">leighanne.warlick@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1596,7 +1596,7 @@
                             <td>
                               <a href="mailto:lina.guzman@lscu.coop" target="_parent">lina.guzman@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1613,7 +1613,7 @@
                               <a href="mailto:lindsey.cole@myleverage.com"
                                 target="_parent">lindsey.cole@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1629,7 +1629,7 @@
                             <td>
                               <a href="mailto:lisa@cuvm.org" target="_parent">lisa@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1645,7 +1645,7 @@
                             <td>
                               <a href="mailto:lizeth.george@lscu.coop" target="_parent">lizeth.george@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1662,7 +1662,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1679,7 +1679,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1695,7 +1695,7 @@
                             <td>
                               <a href="mailto:malik.cummings@lscu.coop" target="_parent">Malik.Cummings@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1711,7 +1711,7 @@
                             <td>
                               <a href="mailto:Marcus.King@cuacg.com" target="_parent">Marcus.King@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1727,7 +1727,7 @@
                             <td>
                               <a href="mailto:mary.jaap@myleverage.com" target="_parent">mary.jaap@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1743,7 +1743,7 @@
                             <td>
                               <a href="mailto:maureen.bock@lscu.coop" target="_parent">maureen.bock@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1759,7 +1759,7 @@
                             <td>
                               <a href="mailto:melissa_brown@lscu.coop" target="_parent">melissa_brown@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1776,7 +1776,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -1792,7 +1792,7 @@
                             <td>
                               <a href="mailto:mike.miller@lscu.coop" target="_parent">mike.miller@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1808,7 +1808,7 @@
                             <td>
                               <a href="mailto:msalomon@commonbondtitle.com">msalomon@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1824,7 +1824,7 @@
                             <td>
                               <a href="mailto:mitzi.nebhut@lscu.coop" target="_parent">mitzi.nebhut@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1840,7 +1840,7 @@
                             <td>
                               <a href="mailto:murphy.kennedy@lscu.coop" target="_parent">murphy.kennedy@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1857,7 +1857,7 @@
                               <a href="mailto:nadinef@growthbydesign.org"
                                 target="_parent">nadinef@growthbydesign.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1873,7 +1873,7 @@
                             <td>
                               <a href="mailto:nancy.golden@lscu.coop" target="_parent">nancy.golden@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1889,7 +1889,7 @@
                             <td>
                               <a href="mailto:nicole.irwin@cuacg.com" target="_parent">nicole.irwin@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1905,7 +1905,7 @@
                             <td>
                               <a href="mailto:patrick.lapine@lscu.coop" target="_parent">patrick.lapine@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1921,7 +1921,7 @@
                             <td>
                               <a href="mailto:philip.patrick@lscu.coop" target="_parent">philip.patrick@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
@@ -1954,7 +1954,7 @@
                             <td>
                               <a href="mailto:Preston.Bowen@lscu.coop" target="_parent">preston.bowen@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -1987,7 +1987,7 @@
                             <td>
                               <a href="mailto:samantha.beeler@lscu.coop" target="_parent">samantha.beeler@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Birmingham</td>
                           </tr>
                           <tr>
                             <td>
@@ -2020,7 +2020,7 @@
                               <a href="mailto:Shakeira.Salters@lscu.coop"
                                 target="_parent">Shakeira.Salters@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -2037,7 +2037,7 @@
                               <a href="mailto:shane.williamson@lscu.coop"
                                 target="_parent">shane.williamson@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
 
 
@@ -2072,7 +2072,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -2089,7 +2089,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -2106,7 +2106,7 @@
                               <a href="mailto:stephanie.hainje@myleverage.com"
                                 target="_parent">stephanie.hainje@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2122,7 +2122,7 @@
                             <td>
                               <a href="mailto:stephen.dunbar@lscu.coop" target="_parent">stephen.dunbar@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2139,7 +2139,7 @@
                               <a href="mailto:steven.pullara@myleverage.com"
                                 target="_parent">steven.pullara@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2157,7 +2157,7 @@
                               <a href="mailto:Steve.Willis@myleverage.com"
                                 target="_parent">Steve.Willis@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -2174,7 +2174,7 @@
                             <td>
                               <a href="mailto:susan.lee@lscu.coop" target="_parent">susan.lee@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2190,7 +2190,7 @@
                             <td>
                               <a href="mailto:sydney.rubin@lscu.coop" target="_parent">sydney.rubin@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2207,7 +2207,7 @@
                               <a href="mailto:takeya.robertson@cuacg.com"
                                 target="_parent">takeya.robertson@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2224,7 +2224,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -2241,7 +2241,7 @@
                               <a href="mailto:Tammy.Williams@MyLeverage.com"
                                 target="_parent">Tammy.Williams@MyLeverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -2258,7 +2258,7 @@
                               <a href="mailto:taylor.sheffield@myleverage.com"
                                 target="_parent">taylor.sheffield@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2274,7 +2274,7 @@
                             <td>
                               <a href="mailto:Tieshia@cuvm.org" target="_parent">Tieshia@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -2290,7 +2290,7 @@
                             <td>
                               <a href="mailto:tonya.yarborough@lscu.coop">tonya.yarborough@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -2307,7 +2307,7 @@
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>Mountain Brook</td>
                           </tr>
                           <tr>
                             <td>
@@ -2323,7 +2323,7 @@
                             <td>
                               <a href="mailto:wen.hemingway@lscu.coop" target="_parent">wen.hemingway@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -2356,7 +2356,7 @@
                               <a href="mailto:zephaniah.williams@lscu.coop"
                                 target="_parent">zephaniah.williams@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>Tallahassee</td>
                           </tr>
                         </tbody>
                       </table>
