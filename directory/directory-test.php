@@ -203,7 +203,7 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
-                          <tr>
+                           <tr>
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
@@ -219,7 +219,7 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
-                          <tr>
+                         <tr>
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
@@ -298,6 +298,7 @@
                             <td>
                               <a href="mailto:ashley.martin@myleverage.com">ashley.martin@myleverage.com</a>
                             </td>
+                            <td>Location</td>
 
                           </tr>
                           <tr>
@@ -606,7 +607,7 @@
                                 target="_parent">crystal.gertjegerdes@lscu.coop</a>
                             </td>
                             <td>Location</td>
-                          </tr>
+                          </tr> 
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -1037,7 +1038,7 @@
 
                             <td>Staff Auditor</td>
                             <td>Department</td>
-                            <td>-</td>
+                            <td>Number</td>
                             <td>
                               <a href="mailto:javonte.martinez@cuacg.com"
                                 target="_parent">javonte.martinez@cuacg.com</a>
@@ -1183,7 +1184,7 @@
 
                             <td>Auditor</td>
                             <td>Department</td>
-                            <td>&nbsp;</td>
+                            <td>No Number Listed</td>
                             <td>
                               <a href="mailto:joshua.swift@cuacg.com">joshua.swift@cuacg.com</a>
                             </td>
@@ -1706,7 +1707,7 @@
 
                             <td>VP, Audit and Compliance </td>
                             <td>Department</td>
-                            <td>&nbsp;</td>
+                            <td>No Number Listed</td>
                             <td>
                               <a href="mailto:Marcus.King@cuacg.com" target="_parent">Marcus.King@cuacg.com</a>
                             </td>
@@ -1751,7 +1752,7 @@
                                 <div class="name">Melissa Brown</div>
                               </div>
                             </td>
-                            <td></td>
+                        
                             <td>Senior Accountant</td>
                             <td>Department</td>
                             <td>678.542.3507</td>
@@ -2117,7 +2118,7 @@
 
                             <td>Quality Assurance Officer</td>
                             <td>Department</td>
-                            <td>&nbsp;</td>
+                            <td>No Number Listed</td>
                             <td>
                               <a href="mailto:stephen.dunbar@lscu.coop" target="_parent">stephen.dunbar@lscu.coop</a>
                             </td>
