@@ -211,7 +211,7 @@
                               </div>
                             </td>
                             <td>Manager, Card Services</td>
-                            <td>Marketing</td>
+                            <td>Payment Solutions</td>
                             <td>850.558.1190</td>
                             <td>
                               <a href="mailto:angela.harris@myleverage.com"
@@ -244,7 +244,7 @@
                             </td>
 
                             <td>Member Service Representative</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>850.558.1048</td>
                             <td>
                               <a href="mailto:antoinette.plaster@myleverage.com"
@@ -600,7 +600,7 @@
                             </td>
 
                             <td>Customer Service Representative</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>678.542.3441</td>
                             <td>
                               <a href="mailto:crystal.gertjegerdes@lscu.coop"
@@ -649,7 +649,7 @@
                             </td>
 
                             <td>VP, LEVERAGE Payment Solutions</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>850.558.1132</td>
                             <td>
                               <a href="mailto:david.nettles@lscu.coop" target="_parent">david.nettles@lscu.coop</a>
@@ -940,7 +940,7 @@
                               </div>
                             </td>
                             <td>Member Service Representative</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>850.558.1186</td>
                             <td>
                               <a href="mailto:gwen.davis@myleverage.com" target="_parent">gwen.davis@myleverage.com</a>
@@ -1215,7 +1215,7 @@
                             </td>
 
                             <td>Manager, Operations</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>678.542.3439</td>
                             <td>
                               <a href="mailto:julie.yanes@lscu.coop" target="_parent">julie.yanes@lscu.coop</a>
@@ -1590,8 +1590,8 @@
                               </div>
                             </td>
 
-                            <td>Operations Assistant</td>
-                            <td>Department</td>
+                            <td>Administrative Assistant</td>
+                            <td>LEVERAGE</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:lina.guzman@lscu.coop" target="_parent">lina.guzman@lscu.coop</a>
@@ -1607,7 +1607,7 @@
                             </td>
 
                             <td>VP, Card Services</td>
-                            <td>Department</td>
+                            <td>Affiliates Consolidated Services</td>
                             <td>850.558.1198</td>
                             <td>
                               <a href="mailto:lindsey.cole@myleverage.com"
@@ -1900,7 +1900,7 @@
                             </td>
 
                             <td>CEO, LSCU & Affiliates</td>
-                            <td>Department</td>
+                            <td>LSCU & Affiliates</td>
                             <td>850.558.1002</td>
                             <td>
                               <a href="mailto:patrick.lapine@lscu.coop" target="_parent">patrick.lapine@lscu.coop</a>
@@ -2100,7 +2100,7 @@
                             </td>
 
                             <td>Portfolio Consultant</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:stephanie.hainje@myleverage.com"
@@ -2150,7 +2150,7 @@
                             </td>
 
                             <td>President, LEVERAGE</td>
-                            <td>Department</td>
+                            <td>LEVERAGE</td>
 
                             <td>850.558.1004</td>
                             <td>
@@ -2218,7 +2218,7 @@
                             </td>
 
                             <td>Title Production Specialist</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -2285,7 +2285,7 @@
                             </td>
 
                             <td>Executive Assistant</td>
-                            <td>Department</td>
+                            <td>Affiliates Consolidated Services</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:tonya.yarborough@lscu.coop">tonya.yarborough@lscu.coop</a>
