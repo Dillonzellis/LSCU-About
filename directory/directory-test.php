@@ -434,7 +434,7 @@
                             <td>Intern</td>
                             <td>Department</td>
                             <td>904.832.0197</td>
-                            <td>&nbsp;</td>
+                            <td>No Email listed</td>
                             <td>Location</td>
                           </tr>
                           <tr>
@@ -1134,8 +1134,8 @@
                         
                             <td>Cash Management CUSO</td>
                             <td>Department</td>
-                            <td>&nbsp;</td>
-                            <td>&nbsp;</td>
+                            <td>No Number Listed</td>
+                            <td>No Email Listed</td>
                             <td>Location</td>
                           </tr>
                           <tr>
