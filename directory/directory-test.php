@@ -135,7 +135,7 @@
                               </div>
                             </td>
                             <td>VP, Shared Cooperative Services</td>
-                            <td>Department: Education</td>
+                            <td>Product Management & Development</td>
                             <td>850.558.1102</td>
                             <td>
                               <a href="mailto:alan.babcock@myleverage.com"
@@ -181,7 +181,7 @@
                               </div>
                             </td>
                             <td>Audit & Compliance Support Specialist</td>
-                            <td>Education</td>
+                            <td>CUACG</td>
                             <td>205.437.2176</td>
                             <td>
                               <a href="mailto:amanda.lenhart@cuacg.com" target="_parent">amanda.lenhart@cuacg.com</a>
@@ -196,7 +196,7 @@
                               </div>
                             </td>
                             <td>Senior Auditor/Office Manager</td>
-                            <td>Marketing</td>
+                            <td>CUACG</td>
                             <td>850.558.1056</td>
                             <td>
                               <a href="mailto:amanda.onkst@cuacg.com" target="_parent">amanda.onkst@cuacg.com</a>
@@ -276,7 +276,7 @@
                             </td>
 
                             <td>Title Order Specialist</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -310,7 +310,7 @@
                             </td>
 
                             <td>Communications Intern</td>
-                            <td>Department</td>
+                            <td>GBD Intern</td>
                             <td>850.558.1174</td>
                             <td>
                               <a href="mailto:beatriz.arrocha@lscu.coop" target="_parent">beatriz.arrocha@lscu.coop</a>
@@ -407,7 +407,7 @@
                             </td>
 
                             <td>Manager, Sales and Service (CUVM)</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>850.558.1050</td>
                             <td>
                               <a href="mailto:Brooke@cuvm.org" target="_parent">Brooke@cuvm.org</a>
@@ -423,7 +423,7 @@
                             </td>
 
                             <td>Senior Web Developer</td>
-                            <td>Department</td>
+                            <td>Growth by Design</td>
                             <td>678.542.3457</td>
                             <td>
                               <a href="mailto:cameronc@growthbydesign.org"
@@ -502,7 +502,7 @@
                             </td>
 
                             <td>Video Production Intern</td>
-                            <td>Department</td>
+                            <td>GBD Intern</td>
                             <td>850.558.1156</td>
                             <td>
                               <a href="mailto:chris.frentzel@lscu.coop" target="_parent">chris.frentzel@lscu.coop</a>
@@ -518,7 +518,7 @@
                             </td>
 
                             <td>Creative Director</td>
-                            <td>Department</td>
+                            <td>Growth by Design</td>
                             <td>678.542.3491</td>
                             <td>
                               <a href="mailto:chrism@growthbydesign.org" target="_parent">chrism@growthbydesign.org</a>
@@ -550,7 +550,7 @@
                             </td>
 
                             <td>Member Service Representative</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:Christoper.Christensen@lscu.coop"
@@ -567,7 +567,7 @@
                             </td>
 
                             <td>Title Production Specialist</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -584,7 +584,7 @@
                             </td>
 
                             <td>Staff Auditor - TN</td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>205.437.2110</td>
                             <td>
                               <a href="mailto:collin.joiner@cuacg.com" target="_parent">collin.joiner@cuacg.com</a>
@@ -633,7 +633,7 @@
                             </td>
 
                             <td>Director, Product Management</td>
-                            <td>Department</td>
+                            <td>Product Development</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:david.hughes@lscu.coop" target="_parent">david.hughes@lscu.coop</a>
@@ -681,7 +681,7 @@
                             </td>
 
                             <td>Abstractor</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -698,7 +698,7 @@
                             </td>
 
                             <td>Manager of Vendor Relations</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>850.558.1030</td>
                             <td>
                               <a href="mailto:desario@cuvm.org" target="_parent">desario@cuvm.org</a>
@@ -714,7 +714,7 @@
                             </td>
 
                             <td>Web Developer</td>
-                            <td>Department</td>
+                            <td>Growth by Design</td>
                             <td>850.558.1030</td>
                             <td>
                               <a href="mailto:dillon@growthbydesign.org" target="_parent">dillon@growthbydesign.org</a>
@@ -730,7 +730,7 @@
                             </td>
 
                             <td>Business Development Consultant</td>
-                            <td>Department</td>
+                            <td>Business Development</td>
                             <td>205.437.2151</td>
                             <td>
                               <a href="mailto:donnette.logan@myleverage.com"
@@ -811,7 +811,7 @@
                             </td>
 
                             <td>Salesforce Developer</td>
-                            <td>Department</td>
+                            <td>Product Development</td>
                             <td>850.558.1036</td>
                             <td>
                               <a href="liz.laffitte@lscu.coop" target="_parent">liz.laffitte@lscu.coop</a>
@@ -827,7 +827,7 @@
                             </td>
 
                             <td>Title Production Specialist</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1017</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -844,7 +844,7 @@
                             </td>
 
                             <td>Staff Auditor </td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>205.437.2139</td>
                             <td>
                               <a href="mailto:evan.irwin@cuacg.com" target="_parent">evan.irwin@cuacg.com</a>
@@ -876,7 +876,7 @@
                             </td>
 
                             <td>Pre-Closer</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -893,7 +893,7 @@
                             </td>
 
                             <td>ATM Operations Specialist</td>
-                            <td>Department</td>
+                            <td>MembersCore Alliance</td>
                             <td>678.542.3409</td>
                             <td>
                               <a href="mailto:garrett.mills@lscu.coop" target="_parent">garrett.mills@lscu.coop</a>
@@ -1004,7 +1004,7 @@
                             </td>
 
                             <td>Closing Agent</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1026</td>
                             <td>
                               <a href="mailto:jaime@commonbondtitle.com" target="_parent">jaime@commonbondtitle.com</a>
@@ -1037,7 +1037,7 @@
                             </td>
 
                             <td>Staff Auditor</td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>Number</td>
                             <td>
                               <a href="mailto:javonte.martinez@cuacg.com"
@@ -1136,7 +1136,7 @@
                             </td>
 
                             <td>Senior Production Artist</td>
-                            <td>Department</td>
+                            <td>Growth by Design</td>
                             <td>850.558.1020</td>
                             <td>
                               <a href="mailto:Joanna.Forrester@lscu.coop"
@@ -1231,7 +1231,7 @@
                             </td>
 
                             <td>Pre-Closer</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1248,7 +1248,7 @@
                             </td>
 
                             <td>VP, Business Development</td>
-                            <td>Department</td>
+                            <td>Business Development</td>
                             <td>850.558.1112</td>
                             <td>
                               <a href="mailto:karen.frazee@myleverage.com"
@@ -1281,7 +1281,7 @@
                             </td>
 
                             <td>Pre-Closer</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1012</td>
                             <td>
                               <a href="mailto:kate@commonbondtitle.com" target="_parent">kate@commonbondtitle.com</a>
@@ -1297,7 +1297,7 @@
                             </td>
 
                             <td>Staff Auditor - GA</td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>205.437.2129</td>
                             <td>
                               <a href="mailto:kaylee.bryant@cuacg.com" target="_parent">kaylee.bryant@cuacg.com</a>
@@ -1329,7 +1329,7 @@
                             </td>
 
                             <td>VP, Vendor Management</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>850.558.1082</td>
                             <td>
                               <a href="mailto:kelli@cuvm.org" target="_parent">kelli@cuvm.org</a>
@@ -1345,7 +1345,7 @@
                             </td>
 
                             <td>Senior Abstractor</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1016</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1362,7 +1362,7 @@
                             </td>
 
                             <td>Staff Auditor - AL</td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>205.437.2142</td>
                             <td>
                               <a href="mailto:khatara.lott-evans@cuacg.com"
@@ -1412,7 +1412,7 @@
                             </td>
 
                             <td>Contract Management Analyst</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>850.558.1084</td>
                             <td>
                               <a href="mailto:kim@cuvm.org" target="_parent">kim@cuvm.org</a>
@@ -1444,7 +1444,7 @@
                             </td>
 
                             <td>VP, Growth by Design</td>
-                            <td>Department</td>
+                            <td>Growth by Design</td>
                             <td>678.542.3451</td>
                             <td>
                               <a href="mailto:kristi.arrington@lscu.coop"
@@ -1461,7 +1461,7 @@
                             </td>
 
                             <td>VP, Strategic Partnerships</td>
-                            <td>Department</td>
+                            <td>Members Core Alliance & Members ATM Alliance</td>
                             <td>678.542.3479</td>
                             <td>
                               <a href="mailto:kyle.fowler@lscu.coop" target="_parent">kyle.fowler@lscu.coop</a>
@@ -1493,7 +1493,7 @@
                             </td>
 
                             <td>Operations Specialist</td>
-                            <td>Department</td>
+                            <td>Shared Cooperative Services</td>
                             <td>205.437.2131</td>
                             <td>
                               <a href="mailto:laura.heard@cusc-al.com" target="_parent">laura.heard@cusc-al.com</a>
@@ -1509,7 +1509,7 @@
                             </td>
 
                             <td>Marketing Representative</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1020</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1526,7 +1526,7 @@
                             </td>
 
                             <td>Sr. Director, Shared Branching</td>
-                            <td>Department</td>
+                            <td>Shared Cooperative Services</td>
                             <td>205.437.2181</td>
                             <td>
                               <a href="mailto:laura.vann@CUSC-AL.COM" target="_parent">laura.vann@CUSC-AL.COM</a>
@@ -1542,7 +1542,7 @@
                             </td>
 
                             <td>ATM Operations Assistant</td>
-                            <td>Department</td>
+                            <td>MembersCore Alliance</td>
                             <td>269.245.2146</td>
                             <td>
                               <a href="mailto:lauren.hivale@lscu.coop" target="_parent">lauren.hivale@lscu.coop</a>
@@ -1558,7 +1558,7 @@
                             </td>
 
                             <td>Staff Auditor</td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:terrell.mcgrew@cuacg.com" target="_parent">terrell.mcgrew@cuacg.com</a>
@@ -1624,7 +1624,7 @@
                             </td>
 
                             <td>Due Diligence Coordinator</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>850.558.1188</td>
                             <td>
                               <a href="mailto:lisa@cuvm.org" target="_parent">lisa@cuvm.org</a>
@@ -1656,7 +1656,7 @@
                             </td>
 
                             <td>General Manager</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1014</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1673,7 +1673,7 @@
                             </td>
 
                             <td>Pre-Closer</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1706,7 +1706,7 @@
                             </td>
 
                             <td>VP, Audit and Compliance </td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>No Number Listed</td>
                             <td>
                               <a href="mailto:Marcus.King@cuacg.com" target="_parent">Marcus.King@cuacg.com</a>
@@ -1722,7 +1722,7 @@
                             </td>
 
                             <td>Director, Product Development</td>
-                            <td>Department</td>
+                            <td>Product Development</td>
                             <td>850.558.1044</td>
                             <td>
                               <a href="mailto:mary.jaap@myleverage.com" target="_parent">mary.jaap@myleverage.com</a>
@@ -1770,7 +1770,7 @@
                             </td>
 
                             <td>Closer</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1803,7 +1803,7 @@
                             </td>
 
                             <td>Closer</td>
-                            <td>Department</td>
+                            <td>CBT of FL</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:msalomon@commonbondtitle.com">msalomon@commonbondtitle.com</a>
@@ -1851,7 +1851,7 @@
                             </td>
 
                             <td>Internet Products Project Coordinator</td>
-                            <td>Department</td>
+                            <td>Growth by Design</td>
                             <td>678.542.3473</td>
                             <td>
                               <a href="mailto:nadinef@growthbydesign.org"
@@ -1884,7 +1884,7 @@
                             </td>
 
                             <td>Director, Business Development &amp; Client Relations</td>
-                            <td>Department</td>
+                            <td>CUACG</td>
                             <td>205.437.2135</td>
                             <td>
                               <a href="mailto:nicole.irwin@cuacg.com" target="_parent">nicole.irwin@cuacg.com</a>
@@ -2066,7 +2066,7 @@
                             </td>
 
                             <td>Marketing Representative</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1028</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -2083,7 +2083,7 @@
                             </td>
 
                             <td>Pre-Closer</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -2117,8 +2117,8 @@
                             </td>
 
                             <td>Quality Assurance Officer</td>
-                            <td>Department</td>
-                            <td>No Number Listed</td>
+                            <td>MembersCore Alliance</td>
+                            <td>-</td>
                             <td>
                               <a href="mailto:stephen.dunbar@lscu.coop" target="_parent">stephen.dunbar@lscu.coop</a>
                             </td>
@@ -2133,7 +2133,7 @@
                             </td>
 
                             <td>Business Development Consultant</td>
-                            <td>Department</td>
+                            <td>Business Development</td>
                             <td>850.558.1164</td>
                             <td>
                               <a href="mailto:steven.pullara@myleverage.com"
@@ -2218,7 +2218,7 @@
                             </td>
 
                             <td>Title Production Specialist</td>
-                            <td>Payment Solutions</td>
+                            <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -2252,7 +2252,7 @@
                             </td>
 
                             <td>Business Development Consultant</td>
-                            <td>Department</td>
+                            <td>Payment Solutions</td>
                             <td>205.437.2127</td>
                             <td>
                               <a href="mailto:taylor.sheffield@myleverage.com"
@@ -2269,7 +2269,7 @@
                             </td>
 
                             <td>Contract Management Analyst</td>
-                            <td>Department</td>
+                            <td>CUVM</td>
                             <td>850.558.1016</td>
                             <td>
                               <a href="mailto:Tieshia@cuvm.org" target="_parent">Tieshia@cuvm.org</a>
@@ -2301,7 +2301,7 @@
                             </td>
 
                             <td>Closing Agent</td>
-                            <td>Department</td>
+                            <td>CBT</td>
                             <td>205.421.1026</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
