@@ -122,7 +122,8 @@
                             <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
-                              <a href="mailto:abigail@growthbydesign.org" target="_parent">abigail@growthbydesign.org</a>
+                              <a href="mailto:abigail@growthbydesign.org"
+                                target="_parent">abigail@growthbydesign.org</a>
                             </td>
                             <td>Duluth</td>
                           </tr>
@@ -137,7 +138,8 @@
                             <td>Department: Education</td>
                             <td>850.558.1102</td>
                             <td>
-                              <a href="mailto:alan.babcock@myleverage.com" target="_parent">alan.babcock@myleverage.com</a>
+                              <a href="mailto:alan.babcock@myleverage.com"
+                                target="_parent">alan.babcock@myleverage.com</a>
                             </td>
                             <td>Tallahassee</td>
                           </tr>
@@ -212,18 +214,19 @@
                             <td>Marketing</td>
                             <td>850.558.1190</td>
                             <td>
-                              <a href="mailto:angela.harris@myleverage.com" target="_parent">angela.harris@myleverage.com</a>
+                              <a href="mailto:angela.harris@myleverage.com"
+                                target="_parent">angela.harris@myleverage.com</a>
                             </td>
                             <td>Duluth</td>
                           </tr>
                           <tr>
                             <td>
-                            <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                              <div class="name">Anthony Roberts</div>
-                            </div>
+                              <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <div class="name">Anthony Roberts</div>
+                              </div>
                             </td>
-     
+
                             <td>Compliance Consultant</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -234,27 +237,28 @@
                           </tr>
                           <tr>
                             <td>
-                            <div class="img-wrapper">
-                              <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                              <div class="name">Antoinette Plaster</div>
-                            </div>
+                              <div class="img-wrapper">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <div class="name">Antoinette Plaster</div>
+                              </div>
                             </td>
-       
+
                             <td>Member Service Representative</td>
                             <td>Department</td>
                             <td>850.558.1048</td>
                             <td>
-                              <a href="mailto:antoinette.plaster@myleverage.com" target="_parent">antoinette.plaster@myleverage.com</a>
+                              <a href="mailto:antoinette.plaster@myleverage.com"
+                                target="_parent">antoinette.plaster@myleverage.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Arno Quon</div>
-                                </div>
-                          </td>
+                              </div>
+                            </td>
                             <td>Member Engagement Consultant</td>
                             <td>Department</td>
                             <td>678.542.3511</td>
@@ -264,45 +268,46 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Ashley Brown</div>
                               </div>
-                          </td>
-            
+                            </td>
+
                             <td>Title Order Specialist</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Ashley Martin</div>
                               </div>
-                          </td>
-                       
+                            </td>
+
                             <td>Payment Solutions Specialist I</td>
                             <td>Department</td>
                             <td>850.558.1194</td>
                             <td>
                               <a href="mailto:ashley.martin@myleverage.com">ashley.martin@myleverage.com</a>
                             </td>
-                           
+
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Beatriz Arrocha</div>
                               </div>
-                          </td>
-         
+                            </td>
+
                             <td>Communications Intern</td>
                             <td>Department</td>
                             <td>850.558.1174</td>
@@ -312,13 +317,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Becky Moore</div>
                               </div>
-                          </td>
-                  
+                            </td>
+
                             <td>Administrative Assistant</td>
                             <td>Department</td>
                             <td>678.542.3449</td>
@@ -328,29 +333,30 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Benjamin "Ben" Blackerby, Esq.</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Closing Agent</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Bill Berg</div>
                               </div>
-                          </td>
-                         
+                            </td>
+
                             <td>VP, Compliance Training &amp; Information</td>
                             <td>Department</td>
                             <td>850.558.1028</td>
@@ -360,13 +366,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Blake Westbrook</div>
                               </div>
-                          </td>
-                 
+                            </td>
+
                             <td>Director, Political Action & Grassroots (AL & GA)</td>
                             <td>Department</td>
                             <td>205.437.2164</td>
@@ -376,13 +382,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Bobbi Grady</div>
                               </div>
-                          </td>
-                        
+                            </td>
+
                             <td>Development Coordinator (SECUF)</td>
                             <td>Department</td>
                             <td>205.437.2128</td>
@@ -392,13 +398,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Brooke Collins</div>
                               </div>
-                          </td>
-                        
+                            </td>
+
                             <td>Manager, Sales and Service (CUVM)</td>
                             <td>Department</td>
                             <td>850.558.1050</td>
@@ -408,29 +414,30 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cameron Carswell</div>
                               </div>
-                          </td>
-                         
+                            </td>
+
                             <td>Senior Web Developer</td>
                             <td>Department</td>
                             <td>678.542.3457</td>
                             <td>
-                              <a href="mailto:cameronc@growthbydesign.org" target="_parent">cameronc@growthbydesign.org</a>
+                              <a href="mailto:cameronc@growthbydesign.org"
+                                target="_parent">cameronc@growthbydesign.org</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cameron Hicks</div>
                               </div>
-                          </td>
-                
+                            </td>
+
                             <td>Intern</td>
                             <td>Department</td>
                             <td>904.832.0197</td>
@@ -438,13 +445,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cara Dollinger</div>
                               </div>
-                          </td>
-             
+                            </td>
+
                             <td>Council Coordinator</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -454,13 +461,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Carol Simmonds</div>
                               </div>
-                          </td>
-                      
+                            </td>
+
                             <td>Senior Staff Accountant</td>
                             <td>Department</td>
                             <td>678.542.3411</td>
@@ -470,13 +477,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Chelsea Riggle</div>
                               </div>
-                          </td>
-                   
+                            </td>
+
                             <td>Recruiter</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -486,13 +493,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Chris Frentzel</div>
                               </div>
-                          </td>
-                     
+                            </td>
+
                             <td>Video Production Intern</td>
                             <td>Department</td>
                             <td>850.558.1156</td>
@@ -502,13 +509,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Chris Maddox</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Creative Director</td>
                             <td>Department</td>
                             <td>678.542.3491</td>
@@ -518,13 +525,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Christine Poole</div>
                               </div>
-                          </td>
-                      
+                            </td>
+
                             <td>Exhibit & Sponsorhip Manager</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -534,45 +541,47 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Christopher Christensen</div>
                               </div>
-                          </td>
-                   
+                            </td>
+
                             <td>Member Service Representative</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
-                              <a href="mailto:Christoper.Christensen@lscu.coop" target="_parent">Christoper.Christensen@lscu.coop</a>
+                              <a href="mailto:Christoper.Christensen@lscu.coop"
+                                target="_parent">Christoper.Christensen@lscu.coop</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Cindy Gray</div>
                               </div>
-                          </td>
-                     
+                            </td>
+
                             <td>Title Production Specialist</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Collin Joiner</div>
                               </div>
-                          </td>
-                
+                            </td>
+
                             <td>Staff Auditor - TN</td>
                             <td>Department</td>
                             <td>205.437.2110</td>
@@ -582,29 +591,30 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Crystal Gertjegerdes</div>
                               </div>
-                          </td>
-                       
+                            </td>
+
                             <td>Customer Service Representative</td>
                             <td>Department</td>
                             <td>678.542.3441</td>
                             <td>
-                              <a href="mailto:crystal.gertjegerdes@lscu.coop" target="_parent">crystal.gertjegerdes@lscu.coop</a>
+                              <a href="mailto:crystal.gertjegerdes@lscu.coop"
+                                target="_parent">crystal.gertjegerdes@lscu.coop</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Bowman</div>
                               </div>
-                          </td>
-                
+                            </td>
+
                             <td>VP, People & Culture</td>
                             <td>Department</td>
                             <td>850.558.1074</td>
@@ -614,13 +624,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Hughes</div>
                               </div>
-                          </td>
-             
+                            </td>
+
                             <td>Director, Product Management</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -630,13 +640,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Nettles</div>
                               </div>
-                          </td>
-           
+                            </td>
+
                             <td>VP, LEVERAGE Payment Solutions</td>
                             <td>Department</td>
                             <td>850.558.1132</td>
@@ -646,13 +656,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">David Pace</div>
                               </div>
-                          </td>
-                       
+                            </td>
+
                             <td>Manager, Regulatory Advocacy</td>
                             <td>Department</td>
                             <td>314.750.6407</td>
@@ -662,29 +672,30 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Davis Hurst</div>
                               </div>
-                          </td>
-                      
+                            </td>
+
                             <td>Abstractor</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Desario Smith</div>
                               </div>
-                          </td>
-                      
+                            </td>
+
                             <td>Manager of Vendor Relations</td>
                             <td>Department</td>
                             <td>850.558.1030</td>
@@ -694,13 +705,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Dillon Ellis</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Web Developer</td>
                             <td>Department</td>
                             <td>850.558.1030</td>
@@ -710,29 +721,30 @@
                             <td>Duluth</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Donnette' Logan</div>
                               </div>
-                          </td>
-                      
+                            </td>
+
                             <td>Business Development Consultant</td>
                             <td>Department</td>
                             <td>205.437.2151</td>
                             <td>
-                              <a href="mailto:donnette.logan@myleverage.com" target="_parent">donnette.logan@myleverage.com</a>
+                              <a href="mailto:donnette.logan@myleverage.com"
+                                target="_parent">donnette.logan@myleverage.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Doris Geohagan</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Senior Staff Accountant</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -742,13 +754,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Eddie Reyes</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Network Engineer</td>
                             <td>Department</td>
                             <td>850.558.1168</td>
@@ -758,13 +770,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Edward Daffin II</div>
                               </div>
-                          </td>
-                        
+                            </td>
+
                             <td>Auditor</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -774,13 +786,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Elaine Minichiello</div>
                               </div>
-                          </td>
-                          
+                            </td>
+
                             <td>Staff Accountant</td>
                             <td>Department</td>
                             <td>850.558.1168</td>
@@ -790,13 +802,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Elizabeth Laffitte</div>
                               </div>
-                          </td>
-                       
+                            </td>
+
                             <td>Salesforce Developer</td>
                             <td>Department</td>
                             <td>850.558.1036</td>
@@ -806,29 +818,30 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Erin Weber</div>
                               </div>
-                          </td>
-        
+                            </td>
+
                             <td>Title Production Specialist</td>
                             <td>Department</td>
                             <td>205.421.1017</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Evan Irwin - TN</div>
                               </div>
-                          </td>
-                        
+                            </td>
+
                             <td>Staff Auditor </td>
                             <td>Department</td>
                             <td>205.437.2139</td>
@@ -838,13 +851,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Evan Torney</div>
                               </div>
-                          </td>
-                       
+                            </td>
+
                             <td>Events Coordinator</td>
                             <td>Department</td>
                             <td>805.558.1046</td>
@@ -854,29 +867,30 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Felicia Hatten</div>
                               </div>
-                          </td>
-                
+                            </td>
+
                             <td>Pre-Closer</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Garrett Mills</div>
                               </div>
-                          </td>
-                        
+                            </td>
+
                             <td>ATM Operations Specialist</td>
                             <td>Department</td>
                             <td>678.542.3409</td>
@@ -886,13 +900,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Gerald McSwain</div>
                               </div>
-                          </td>
-                       
+                            </td>
+
                             <td>Operations Manager</td>
                             <td>Department</td>
                             <td>850.558.1124</td>
@@ -902,13 +916,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Grace Newcombe</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Sr. Director, Federal Advocacy & Communications</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -918,12 +932,12 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Gwen Davis</div>
                               </div>
-                          </td>
+                            </td>
                             <td>Member Service Representative</td>
                             <td>Department</td>
                             <td>850.558.1186</td>
@@ -933,13 +947,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Hayley Moss</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Events Coordinator</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -949,13 +963,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jackie Locklar</div>
                               </div>
-                          </td>
-                  
+                            </td>
+
                             <td>Director, Accounting</td>
                             <td>Department</td>
                             <td>678.542.3477</td>
@@ -965,13 +979,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jaela Stephens</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Operations Assistant</td>
                             <td>Department</td>
                             <td>850.558.1000</td>
@@ -981,13 +995,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jaime Garcia</div>
                               </div>
-                          </td>
-              
+                            </td>
+
                             <td>Closing Agent</td>
                             <td>Department</td>
                             <td>205.421.1026</td>
@@ -997,45 +1011,47 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Janet Friedman</div>
                               </div>
-                          </td>
-                         
+                            </td>
+
                             <td>Post Closer</td>
                             <td>Department</td>
                             <td>205.421.1019</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Javont&eacute; Martinez</div>
                               </div>
-                          </td>
-                     
+                            </td>
+
                             <td>Staff Auditor</td>
                             <td>Department</td>
                             <td>-</td>
                             <td>
-                              <a href="mailto:javonte.martinez@cuacg.com" target="_parent">javonte.martinez@cuacg.com</a>
+                              <a href="mailto:javonte.martinez@cuacg.com"
+                                target="_parent">javonte.martinez@cuacg.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jay Brady</div>
                               </div>
-                          </td>
-                          
+                            </td>
+
                             <td>Director, Consultative Services</td>
                             <td>Department</td>
                             <td>850.558.1106</td>
@@ -1045,13 +1061,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jeffrey Sharkey</div>
                               </div>
-                          </td>
-                          
+                            </td>
+
                             <td>Treasury Consultant</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -1061,13 +1077,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jennifer Krambeck</div>
                               </div>
-                          </td>
-                     
+                            </td>
+
                             <td>Accountant I</td>
                             <td>Department</td>
                             <td>850.558.1106</td>
@@ -1077,61 +1093,64 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jessica McDaniel</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>VP of P&C</td>
                             <td>Department</td>
                             <td>850.558.1074</td>
                             <td>
-                              <a href="mailto:jessica.mcdaniel@lscu.coop" target="_parent">jessica.mcdaniel@lscu.coop</a>
+                              <a href="mailto:jessica.mcdaniel@lscu.coop"
+                                target="_parent">jessica.mcdaniel@lscu.coop</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Jessica Thompson</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>Assistant Controller</td>
                             <td>Department</td>
                             <td>678.542.3414</td>
                             <td>
-                              <a href="mailto:Jessica.Thompson@lscu.coop" target="_parent">jessica.thompson@lscu.coop</a>
+                              <a href="mailto:Jessica.Thompson@lscu.coop"
+                                target="_parent">jessica.thompson@lscu.coop</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Joanna Forrester</div>
                               </div>
-                          </td>
-                     
+                            </td>
+
                             <td>Senior Production Artist</td>
                             <td>Department</td>
                             <td>850.558.1020</td>
                             <td>
-                              <a href="mailto:Joanna.Forrester@lscu.coop" target="_parent">Joanna.Forrester@lscu.coop</a>
+                              <a href="mailto:Joanna.Forrester@lscu.coop"
+                                target="_parent">Joanna.Forrester@lscu.coop</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">John Ballantyne</div>
                               </div>
-                          </td>
-                        
+                            </td>
+
                             <td>Cash Management CUSO</td>
                             <td>Department</td>
                             <td>No Number Listed</td>
@@ -1139,13 +1158,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">John Rothell</div>
                               </div>
-                          </td>
-                          
+                            </td>
+
                             <td>Sr. Director, Governmental Affairs (FL)</td>
                             <td>Department</td>
                             <td>850.558.1142</td>
@@ -1155,13 +1174,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Joshua Swift</div>
                               </div>
-                          </td>
-                  
+                            </td>
+
                             <td>Auditor</td>
                             <td>Department</td>
                             <td>&nbsp;</td>
@@ -1171,13 +1190,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Julian Gabriel</div>
                               </div>
-                          </td>
-                   
+                            </td>
+
                             <td>Talent Acquistition Specialist</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
@@ -1187,13 +1206,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Julie Yanes</div>
                               </div>
-                          </td>
-              
+                            </td>
+
                             <td>Manager, Operations</td>
                             <td>Department</td>
                             <td>678.542.3439</td>
@@ -1203,45 +1222,47 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kaitlin Moore</div>
                               </div>
-                          </td>
-               
+                            </td>
+
                             <td>Pre-Closer</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Karen Frazee</div>
                               </div>
-                          </td>
-                    
+                            </td>
+
                             <td>VP, Business Development</td>
                             <td>Department</td>
                             <td>850.558.1112</td>
                             <td>
-                              <a href="mailto:karen.frazee@myleverage.com" target="_parent">karen.frazee@myleverage.com</a>
+                              <a href="mailto:karen.frazee@myleverage.com"
+                                target="_parent">karen.frazee@myleverage.com</a>
                             </td>
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Brady</div>
                               </div>
-                          </td>
-             
+                            </td>
+
                             <td>Executive Assistant to CEO</td>
                             <td>Department</td>
                             <td>850.558.1060</td>
@@ -1251,13 +1272,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                          <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
                                 <div class="name">Kate Heisler</div>
                               </div>
-                          </td>
-                      
+                            </td>
+
                             <td>Pre-Closer</td>
                             <td>Department</td>
                             <td>205.421.1012</td>
@@ -1267,13 +1288,13 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kaylee Bryant</div>
                               </div>
-                          </td>
-                            <td>Kaylee Bryant</td>
+                            </td>
+
                             <td>Staff Auditor - GA</td>
                             <td>Department</td>
                             <td>205.437.2129</td>
@@ -1283,1062 +1304,1058 @@
                             <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kela Wingard</div>
                               </div>
-                          </td>
-                            <td>Kela Wingard</td>
+                            </td>
+
                             <td>Compliance Coordinator</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3502</td>
                             <td>
                               <a href="mailto:kela.wingard@lscu.coop" target="_parent">kela.wingard@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kelli Silvernale</div>
                               </div>
-                          </td>
-                            <td>Kelli Silvernale</td>
+                            </td>
+
                             <td>VP, Vendor Management</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1082</td>
                             <td>
                               <a href="mailto:kelli@cuvm.org" target="_parent">kelli@cuvm.org</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kevin Moore</div>
                               </div>
-                          </td>
-                            <td>Kevin Moore</td>
+                            </td>
+
                             <td>Senior Abstractor</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1016</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">KhaTara Lott-Evans</div>
                               </div>
-                          </td>
-                            <td>KhaTara Lott-Evans</td>
+                            </td>
+
                             <td>Staff Auditor - AL</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>205.437.2142</td>
                             <td>
-                              <a href="mailto:khatara.lott-evans@cuacg.com" target="_parent">khatara.lott-evans@cuacg.com</a>
+                              <a href="mailto:khatara.lott-evans@cuacg.com"
+                                target="_parent">khatara.lott-evans@cuacg.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kimberly Barker</div>
                               </div>
-                          </td>
-                            <td>Kimberly Barker</td>
+                            </td>
+
                             <td>Accounting Intern</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>810.545.8049</td>
                             <td>
                               <a href="mailto:kimberly.barker@lscu.coop" target="_parent">kimberly.barker@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kimberly Miller</div>
                               </div>
-                          </td>
-                            <td>Kimberly Miller</td>
+                            </td>
+
                             <td>Treasury Analyst</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>313.395.6899</td>
                             <td>
-                              <a href="mailto:kimberly.miller@trutreasury.com" target="_parent">kimberly.miller@trutreasury.com</a>
+                              <a href="mailto:kimberly.miller@trutreasury.com"
+                                target="_parent">kimberly.miller@trutreasury.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kim McCallum</div>
                               </div>
-                          </td>
-                            <td>Kim McCallum</td>
+                            </td>
+
                             <td>Contract Management Analyst</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1084</td>
                             <td>
                               <a href="mailto:kim@cuvm.org" target="_parent">kim@cuvm.org</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Korie Mitchell</div>
                               </div>
-                          </td>
-                            <td>Korie Mitchell</td>
+                            </td>
+
                             <td>Contract Management Analyst</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1034</td>
                             <td>
                               <a href="mailto:korie@cuvm.org" target="_parent">korie@cuvm.org</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kristi Arrington</div>
                               </div>
-                          </td>
-                            <td>Kristi Arrington</td>
+                            </td>
+
                             <td>VP, Growth by Design</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3451</td>
                             <td>
-                              <a href="mailto:kristi.arrington@lscu.coop" target="_parent">kristi.arrington@lscu.coop</a>
+                              <a href="mailto:kristi.arrington@lscu.coop"
+                                target="_parent">kristi.arrington@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Kyle Fowler</div>
                               </div>
-                          </td>
-                            <td>Kyle Fowler</td>
+                            </td>
+
                             <td>VP, Strategic Partnerships</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3479</td>
                             <td>
                               <a href="mailto:kyle.fowler@lscu.coop" target="_parent">kyle.fowler@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Laura Gober</div>
                               </div>
-                          </td>
-                            <td>Laura Gober</td>
+                            </td>
+
                             <td>VP, Compliance &amp; Regulatory Services</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3453</td>
                             <td>
                               <a href="mailto:laura.gober@lscu.coop" target="_parent">laura.gober@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Laura Heard</div>
                               </div>
-                          </td>
-                            <td>Laura Heard</td>
+                            </td>
+
                             <td>Operations Specialist</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>205.437.2131</td>
                             <td>
                               <a href="mailto:laura.heard@cusc-al.com" target="_parent">laura.heard@cusc-al.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Laura Parr</div>
                               </div>
-                          </td>
-                            <td>Laura Parr</td>
+                            </td>
+
                             <td>Marketing Representative</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1020</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Laura Vann</div>
                               </div>
-                          </td>
-                            <td>Laura Vann</td>
+                            </td>
+
                             <td>Sr. Director, Shared Branching</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>205.437.2181</td>
                             <td>
                               <a href="mailto:laura.vann@CUSC-AL.COM" target="_parent">laura.vann@CUSC-AL.COM</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lauren Hivale</div>
                               </div>
-                          </td>
-                            <td>Lauren Hivale</td>
+                            </td>
+
                             <td>ATM Operations Assistant</td>
-                               <td>Department</td>
+                            <td>Department</td>
                             <td>269.245.2146</td>
                             <td>
                               <a href="mailto:lauren.hivale@lscu.coop" target="_parent">lauren.hivale@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lawrence Terrell McGrew</div>
                               </div>
-                          </td>
-                            <td>Lawrence Terrell McGrew</td>
+                            </td>
+
                             <td>Staff Auditor</td>
                             <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:terrell.mcgrew@cuacg.com" target="_parent">terrell.mcgrew@cuacg.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Leigh Anne Warlick</div>
                               </div>
-                          </td>
-                            <td>Leigh Anne Warlick</td>
+                            </td>
+
                             <td>Coordinator, People &amp; Culture</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3521</td>
                             <td>
-                              <a href="mailto:leighanne.warlick@lscu.coop" target="_parent">leighanne.warlick@lscu.coop</a>
+                              <a href="mailto:leighanne.warlick@lscu.coop"
+                                target="_parent">leighanne.warlick@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lina Guzman</div>
                               </div>
-                          </td>
-                            <td>Lina Guzman</td>
+                            </td>
+
                             <td>Operations Assistant</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:lina.guzman@lscu.coop" target="_parent">lina.guzman@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lindsey Cole</div>
                               </div>
-                          </td>
-                            <td>Lindsey Cole</td>
+                            </td>
+
                             <td>VP, Card Services</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1198</td>
                             <td>
-                              <a href="mailto:lindsey.cole@myleverage.com" target="_parent">lindsey.cole@myleverage.com</a>
+                              <a href="mailto:lindsey.cole@myleverage.com"
+                                target="_parent">lindsey.cole@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lisa Felder</div>
                               </div>
-                          </td>
-                            <td>Lisa Felder</td>
+                            </td>
+
                             <td>Due Diligence Coordinator</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1188</td>
                             <td>
                               <a href="mailto:lisa@cuvm.org" target="_parent">lisa@cuvm.org</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lizeth George</div>
                               </div>
-                          </td>
-                            <td>Lizeth George</td>
+                            </td>
+
                             <td>Communications Coordinator</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:lizeth.george@lscu.coop" target="_parent">lizeth.george@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lynn Hightower-Moore</div>
                               </div>
-                          </td>
-                            <td>Lynn Hightower-Moore</td>
+                            </td>
+
                             <td>General Manager</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1014</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Lizzie Henderson</div>
                               </div>
-                          </td>
-                            <td>Lizzie Henderson</td>
+                            </td>
+
                             <td>Pre-Closer</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Malik Cummings</div>
                               </div>
-                          </td>
-                            <td>Malik Cummings</td>
+                            </td>
+
                             <td>Accounting Intern</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1040</td>
                             <td>
                               <a href="mailto:malik.cummings@lscu.coop" target="_parent">Malik.Cummings@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Marcus King</div>
                               </div>
-                          </td>
-                            <td>Marcus King</td>
+                            </td>
+
                             <td>VP, Audit and Compliance </td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>&nbsp;</td>
                             <td>
                               <a href="mailto:Marcus.King@cuacg.com" target="_parent">Marcus.King@cuacg.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Mary Jaapisler</div>
                               </div>
-                          </td>
-                            <td>Mary Jaap</td>
+                            </td>
+
                             <td>Director, Product Development</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1044</td>
                             <td>
                               <a href="mailto:mary.jaap@myleverage.com" target="_parent">mary.jaap@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Maureen Bock</div>
                               </div>
-                          </td>
-                            <td>Maureen Bock</td>
+                            </td>
+
                             <td>Vice President, Education & Training</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3437</td>
                             <td>
                               <a href="mailto:maureen.bock@lscu.coop" target="_parent">maureen.bock@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Melissa Brown</div>
                               </div>
-                          </td>
-                            <td>Melissa Brown</td>
+                            </td>
+                            <td></td>
                             <td>Senior Accountant</td>
-                                      <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3507</td>
                             <td>
                               <a href="mailto:melissa_brown@lscu.coop" target="_parent">melissa_brown@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Michelle Benson-Sheffield</div>
                               </div>
-                          </td>
-                            <td>Michelle Benson-Sheffield</td>
+                            </td>
+
                             <td>Closer</td>
                             <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Mike Miller</div>
                               </div>
-                          </td>
-                            <td>Mike Miller</td>
+                            </td>
+
                             <td>Communications Manager</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1176</td>
                             <td>
                               <a href="mailto:mike.miller@lscu.coop" target="_parent">mike.miller@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Mike Salomon Jr.</div>
                               </div>
-                          </td>
-                            <td>Mike Salomon Jr.</td>
+                            </td>
+
                             <td>Closer</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:msalomon@commonbondtitle.com">msalomon@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Mitzi Nebhut</div>
                               </div>
-                          </td>
-                            <td>Mitzi Nebhut</td>
+                            </td>
+
                             <td>Controller</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1138</td>
                             <td>
                               <a href="mailto:mitzi.nebhut@lscu.coop" target="_parent">mitzi.nebhut@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Murphy Kennedy</div>
                               </div>
-                          </td>
-                            <td>Murphy Kennedy</td>
+                            </td>
+
                             <td>Political Affairs and Grass Roots Coordinator (FL)</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.3500</td>
                             <td>
                               <a href="mailto:murphy.kennedy@lscu.coop" target="_parent">murphy.kennedy@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Nadine Ferere</div>
                               </div>
-                          </td>
-                            <td>Nadine Ferere</td>
+                            </td>
+
                             <td>Internet Products Project Coordinator</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3473</td>
                             <td>
-                              <a href="mailto:nadinef@growthbydesign.org" target="_parent">nadinef@growthbydesign.org</a>
+                              <a href="mailto:nadinef@growthbydesign.org"
+                                target="_parent">nadinef@growthbydesign.org</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Nancy Golden</div>
                               </div>
-                          </td>
-                            <td>Nancy Golden</td>
+                            </td>
+
                             <td>Exhibit & Sponsorship Manager</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3463</td>
                             <td>
                               <a href="mailto:nancy.golden@lscu.coop" target="_parent">nancy.golden@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Nicole Irwin</div>
                               </div>
-                          </td>
-                            <td>Nicole Irwin</td>
+                            </td>
+
                             <td>Director, Business Development &amp; Client Relations</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.437.2135</td>
                             <td>
                               <a href="mailto:nicole.irwin@cuacg.com" target="_parent">nicole.irwin@cuacg.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Patrick La Pine</div>
                               </div>
-                          </td>
-                            <td>Patrick La Pine</td>
+                            </td>
+
                             <td>CEO, LSCU & Affiliates</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1002</td>
                             <td>
                               <a href="mailto:patrick.lapine@lscu.coop" target="_parent">patrick.lapine@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Philip Patrick</div>
                               </div>
-                          </td>
-                            <td>Philip Patrick</td>
+                            </td>
+
                             <td>VP, Information Technology</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3405</td>
                             <td>
                               <a href="mailto:philip.patrick@lscu.coop" target="_parent">philip.patrick@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Precious Boone</div>
                               </div>
-                          </td>
-                            <td>Precious Boone</td>
+                            </td>
+
                             <td>Member Service Representative</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1200</td>
                             <td>
-                              <a href="mailto:precious.boone@myleverage.com" target="_parent">precious.boone@myleverage.com</a>
+                              <a href="mailto:precious.boone@myleverage.com"
+                                target="_parent">precious.boone@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Preston Bowen</div>
                               </div>
-                          </td>
-                            <td>Preston Bowen</td>
+                            </td>
+
                             <td>Jr. Systems Administrator</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1022</td>
                             <td>
                               <a href="mailto:Preston.Bowen@lscu.coop" target="_parent">preston.bowen@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Reeta (Laureeta) Garrett</div>
                               </div>
-                          </td>
-                            <td>Reeta (Laureeta) Garrett</td>
+                            </td>
+
                             <td>Senior Accountant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3469</td>
                             <td>
                               <a href="mailto:reeta.garrett@lscu.coop" target="_parent">reeta.garrett@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
+
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
-                              </div>
-                          </td>
-                            <td>Rhashii Demps</td>
-                            <td>Payments Solution Specialist</td>
-                              <td>Department</td>
-                            <td>850.558.1072</td>
                             <td>
-                              <a href="mailto:rhashii.demps@myleverage.com" target="_parent">rhashii.demps@myleverage.com</a>
-                            </td>
-                              <td>Location</td>
-                          </tr>
-                          <tr>
-                           <td>
-                            <div class="img-wrapper">
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Samantha Beeler</div>
                               </div>
-                          </td>
-                            <td>Samantha Beeler</td>
+                            </td>
+
                             <td>President, Association Services</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:samantha.beeler@lscu.coop" target="_parent">samantha.beeler@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Shae Travis</div>
                               </div>
-                          </td>
-                            <td>Shae Travis</td>
+                            </td>
+
                             <td>Product Development Manager</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:Shae.Travis@lscu.coop" target="_parent">Shae.Travis@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Shakeira Salters</div>
                               </div>
-                          </td>
-                            <td>Shakeira Salters</td>
+                            </td>
+
                             <td>Operations Assistant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1054</td>
                             <td>
-                              <a href="mailto:Shakeira.Salters@lscu.coop" target="_parent">Shakeira.Salters@lscu.coop</a>
+                              <a href="mailto:Shakeira.Salters@lscu.coop"
+                                target="_parent">Shakeira.Salters@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Shane Williamson</div>
                               </div>
-                          </td>
-                            <td>Shane Williamson</td>
+                            </td>
+
                             <td>Systems Administrator</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1166</td>
                             <td>
-                              <a href="mailto:shane.williamson@lscu.coop" target="_parent">shane.williamson@lscu.coop</a>
+                              <a href="mailto:shane.williamson@lscu.coop"
+                                target="_parent">shane.williamson@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
+
+
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
-                              </div>
-                          </td>
-                            <td>Sharon Dacres</td>
-                            <td>Staff Accountant</td>
-                              <td>Department</td>
-                            <td>866.231.0545</td>
                             <td>
-                              <a href="mailto:sharon.dacres@lscu.coop" target="_parent">sharon.dacres@lscu.coop</a>
-                            </td>
-                              <td>Location</td>
-                          </tr>
-                          <tr>
-                           <td>
-                            <div class="img-wrapper">
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Sharon Murphy</div>
                               </div>
-                          </td>
-                            <td>Sharon Murphy</td>
+                            </td>
+
                             <td>Compliance Consultant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3500</td>
                             <td>
                               <a href="mailto:sharon.murphy@lscu.coop" target="_parent">sharon.murphy@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Shelley Carroll Miller</div>
                               </div>
-                          </td>
-                            <td>Shelley Carroll Miller</td>
+                            </td>
+
                             <td>Marketing Representative</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1028</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Shirley Bell</div>
                               </div>
-                          </td>
-                            <td>Shirley Bell</td>
+                            </td>
+
                             <td>Pre-Closer</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Stephanie Hainje</div>
                               </div>
-                          </td>
-                            <td>Stephanie Hainje</td>
+                            </td>
+
                             <td>Portfolio Consultant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
-                              <a href="mailto:stephanie.hainje@myleverage.com" target="_parent">stephanie.hainje@myleverage.com</a>
+                              <a href="mailto:stephanie.hainje@myleverage.com"
+                                target="_parent">stephanie.hainje@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Stephen Dunbar</div>
                               </div>
-                          </td>
-                            <td>Stephen Dunbar</td>
+                            </td>
+
                             <td>Quality Assurance Officer</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>&nbsp;</td>
                             <td>
                               <a href="mailto:stephen.dunbar@lscu.coop" target="_parent">stephen.dunbar@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Steve Pullara</div>
                               </div>
-                          </td>
-                            <td>Steve Pullara</td>
+                            </td>
+
                             <td>Business Development Consultant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1164</td>
                             <td>
-                              <a href="mailto:steven.pullara@myleverage.com" target="_parent">steven.pullara@myleverage.com</a>
+                              <a href="mailto:steven.pullara@myleverage.com"
+                                target="_parent">steven.pullara@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Steve Willis</div>
                               </div>
-                          </td>
-                            <td>Steve Willis</td>
+                            </td>
+
                             <td>President, LEVERAGE</td>
-                              <td>Department</td>
-                            
+                            <td>Department</td>
+
                             <td>850.558.1004</td>
                             <td>
-                              <a href="mailto:Steve.Willis@myleverage.com" target="_parent">Steve.Willis@myleverage.com</a>
+                              <a href="mailto:Steve.Willis@myleverage.com"
+                                target="_parent">Steve.Willis@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Susan Lee</div>
                               </div>
-                          </td>
-                            <td>Susan Lee</td>
+                            </td>
+
                             <td>Member Engagement Consultant</td>
-                              <td>Department</td>
-                            
+                            <td>Department</td>
+
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:susan.lee@lscu.coop" target="_parent">susan.lee@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Sydney Rubin</div>
                               </div>
-                          </td>
-                            <td>Sydney Rubin</td>
+                            </td>
+
                             <td>Sr. Director, Governmental Affairs (GA)</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>678.542.3444</td>
                             <td>
                               <a href="mailto:sydney.rubin@lscu.coop" target="_parent">sydney.rubin@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">TaKeya Robertson</div>
                               </div>
-                          </td>
-                            <td>TaKeya Robertson</td>
+                            </td>
+
                             <td>Staff Auditor - AL</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.437.2179</td>
                             <td>
-                              <a href="mailto:takeya.robertson@cuacg.com" target="_parent">takeya.robertson@cuacg.com</a>
+                              <a href="mailto:takeya.robertson@cuacg.com"
+                                target="_parent">takeya.robertson@cuacg.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Tammy Cameron</div>
                               </div>
-                          </td>
-                            <td>Tammy Cameron</td>
+                            </td>
+
                             <td>Title Production Specialist</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1010</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Tammy Williams</div>
                               </div>
-                          </td>
-                            <td>Tammy Williams</td>
+                            </td>
+
                             <td>Member Service Representative</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1180</td>
                             <td>
-                              <a href="mailto:Tammy.Williams@MyLeverage.com" target="_parent">Tammy.Williams@MyLeverage.com</a>
+                              <a href="mailto:Tammy.Williams@MyLeverage.com"
+                                target="_parent">Tammy.Williams@MyLeverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Taylor Sheffield</div>
                               </div>
-                          </td>
-                            <td>Taylor Sheffield</td>
+                            </td>
+
                             <td>Business Development Consultant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.437.2127</td>
                             <td>
-                              <a href="mailto:taylor.sheffield@myleverage.com" target="_parent">taylor.sheffield@myleverage.com</a>
+                              <a href="mailto:taylor.sheffield@myleverage.com"
+                                target="_parent">taylor.sheffield@myleverage.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Tieshia Akins</div>
                               </div>
-                          </td>
-                            <td>Tieshia Akins</td>
+                            </td>
+
                             <td>Contract Management Analyst</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1016</td>
                             <td>
                               <a href="mailto:Tieshia@cuvm.org" target="_parent">Tieshia@cuvm.org</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Tonya Yarborough</div>
                               </div>
-                          </td>
-                            <td>Tonya Yarborough</td>
+                            </td>
+
                             <td>Executive Assistant</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:tonya.yarborough@lscu.coop">tonya.yarborough@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">W. Patrick Cockrell, Esq.</div>
                               </div>
-                          </td>
-                            <td>W. Patrick Cockrell, Esq.</td>
+                            </td>
+
                             <td>Closing Agent</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>205.421.1026</td>
                             <td>
-                              <a href="mailto:mailbox@commonbondtitle.com" target="_parent">mailbox@commonbondtitle.com</a>
+                              <a href="mailto:mailbox@commonbondtitle.com"
+                                target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Wen Hemingway</div>
                               </div>
-                          </td>
-                            <td>Wen Hemingway</td>
+                            </td>
+
                             <td>Chief Financial Officer</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1110</td>
                             <td>
                               <a href="mailto:wen.hemingway@lscu.coop" target="_parent">wen.hemingway@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Zachery Gilbert</div>
                               </div>
-                          </td>
-                            <td>Zachery Gilbert</td>
+                            </td>
+
                             <td>Staff Auditor</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>865.507.2263</td>
                             <td>
                               <a href="mailto:zachery.gilbert@cuacg.com" target="_parent">zachery.gilbert@cuacg.com</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                           <tr>
-                           <td>
-                            <div class="img-wrapper">
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
-                                <div class="name">Kate Heisler</div>
+                                <div class="name">Zephaniah Williams</div>
                               </div>
-                          </td>
-                            <td>Zephaniah Williams</td>
+                            </td>
+
                             <td>Operations Specialist</td>
-                              <td>Department</td>
+                            <td>Department</td>
                             <td>850.558.1000</td>
                             <td>
-                              <a href="mailto:zephaniah.williams@lscu.coop" target="_parent">zephaniah.williams@lscu.coop</a>
+                              <a href="mailto:zephaniah.williams@lscu.coop"
+                                target="_parent">zephaniah.williams@lscu.coop</a>
                             </td>
-                              <td>Location</td>
+                            <td>Location</td>
                           </tr>
                         </tbody>
                       </table>
