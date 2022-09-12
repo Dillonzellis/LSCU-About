@@ -146,7 +146,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/alisha-stair.JPG" alt="Alan">
                                 <div class="name">Alisha Stair</div>
                               </div>
                             </td>
@@ -176,7 +176,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/amanda-lenhart.JPG" alt="Alan">
                                 <div class="name">Amanda Lenhart</div>
                               </div>
                             </td>
@@ -191,7 +191,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/amanda-onkst.JPG" alt="Alan">
                                 <div class="name">Amanda Onkst</div>
                               </div>
                             </td>
@@ -206,7 +206,7 @@
                            <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/angela-harris.PNG" alt="Alan">
                                 <div class="name">Angela Harris</div>
                               </div>
                             </td>
@@ -353,7 +353,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Bill_Berg.JPG" alt="Alan">
                                 <div class="name">Bill Berg</div>
                               </div>
                             </td>
@@ -369,7 +369,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/blake-westbrook.jpg" alt="Alan">
                                 <div class="name">Blake Westbrook</div>
                               </div>
                             </td>
@@ -385,7 +385,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/bobbi-grady.JPG" alt="Alan">
                                 <div class="name">Bobbi Grady</div>
                               </div>
                             </td>
@@ -401,7 +401,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Brooke-Collins.jpg" alt="Alan">
                                 <div class="name">Brooke Collins</div>
                               </div>
                             </td>
@@ -692,7 +692,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Desario-Smith.jpg" alt="Alan">
                                 <div class="name">Desario Smith</div>
                               </div>
                             </td>
@@ -724,7 +724,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/donnette-headshot.png" alt="Alan">
                                 <div class="name">Donnette' Logan</div>
                               </div>
                             </td>
@@ -935,7 +935,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/gwen-davis.JPG" alt="Alan">
                                 <div class="name">Gwen Davis</div>
                               </div>
                             </td>
@@ -1130,7 +1130,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/joanna-forrester.JPG" alt="Alan">
                                 <div class="name">Joanna Forrester</div>
                               </div>
                             </td>
@@ -1161,7 +1161,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/john-rothell.JPG" alt="John Rothell">
                                 <div class="name">John Rothell</div>
                               </div>
                             </td>
@@ -1242,7 +1242,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Karen-Frazee.jpg" alt="Karen Frazee">
                                 <div class="name">Karen Frazee</div>
                               </div>
                             </td>
@@ -1259,7 +1259,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Kate_brady.JPG" alt="Alan">
                                 <div class="name">Kate Brady</div>
                               </div>
                             </td>
@@ -1323,7 +1323,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/kelli_silvernale.jpg" alt="Alan">
                                 <div class="name">Kelli Silvernale</div>
                               </div>
                             </td>
@@ -1406,7 +1406,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/kim-mccallum.JPG" alt="Alan">
                                 <div class="name">Kim McCallum</div>
                               </div>
                             </td>
@@ -1422,7 +1422,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/korie-mitchell.JPG" alt="Korie Mitchell">
                                 <div class="name">Korie Mitchell</div>
                               </div>
                             </td>
@@ -1618,7 +1618,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Lisa-Felder.jpg" alt="Lisa Felder">
                                 <div class="name">Lisa Felder</div>
                               </div>
                             </td>
@@ -1894,7 +1894,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/patrick.png" alt="Patrick La Pine">
                                 <div class="name">Patrick La Pine</div>
                               </div>
                             </td>
@@ -1926,7 +1926,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Precious-boone.JPG" alt="Precious Boone">
                                 <div class="name">Precious Boone</div>
                               </div>
                             </td>
@@ -2008,7 +2008,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/shakeira-salters.JPG" alt="Shakeira Salters">
                                 <div class="name">Shakeira Salters</div>
                               </div>
                             </td>
@@ -2025,7 +2025,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/shane-williamson.JPG" alt="Shane Williamson">
                                 <div class="name">Shane Williamson</div>
                               </div>
                             </td>
@@ -2127,7 +2127,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/steve-pullara.jpg" alt="Steve Pullara">
                                 <div class="name">Steve Pullara</div>
                               </div>
                             </td>
@@ -2144,7 +2144,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/SteveWillis.jpg" alt="Steve Willis">
                                 <div class="name">Steve Willis</div>
                               </div>
                             </td>
@@ -2195,7 +2195,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/takeya-robertson.JPG" alt="TaKeya Robertson">
                                 <div class="name">TaKeya Robertson</div>
                               </div>
                             </td>
@@ -2246,7 +2246,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/taylor-sheffield.JPG" alt="Taylor Sheffield">
                                 <div class="name">Taylor Sheffield</div>
                               </div>
                             </td>
@@ -2263,7 +2263,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" alt="Alan">
+                                <img src="../imgs/directory/Tieshia-akins.JPG" alt="Tieshia Akins">
                                 <div class="name">Tieshia Akins</div>
                               </div>
                             </td>
