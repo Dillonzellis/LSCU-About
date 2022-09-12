@@ -119,7 +119,7 @@
                               </div>
                             </td>
                             <td>Marketing Intern</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:abigail@growthbydesign.org"
@@ -233,7 +233,7 @@
                             <td>
                               <a href="mailto:tony.roberts@lscu.coop" target="_parent">tony.roberts@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -293,12 +293,12 @@
                             </td>
 
                             <td>Payment Solutions Specialist I</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1194</td>
                             <td>
                               <a href="mailto:ashley.martin@myleverage.com">ashley.martin@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
 
                           </tr>
                           <tr>
@@ -342,13 +342,13 @@
                             </td>
 
                             <td>Closing Agent</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>205.421.1010</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
                                 target="_parent">mailbox@commonbondtitle.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -440,10 +440,10 @@
                             </td>
 
                             <td>Intern</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>904.832.0197</td>
-                            <td>No Email listed</td>
-                            <td>Location</td>
+                            <td>-</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -470,12 +470,12 @@
                             </td>
 
                             <td>Senior Staff Accountant</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>678.542.3411</td>
                             <td>
                               <a href="mailto:carol.simmonds@lscu.coop" target="_parent">carol.simmonds@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -486,12 +486,12 @@
                             </td>
 
                             <td>Recruiter</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:chelsea.riggle@lscu.coop" target="_parent">chelsea.riggle@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -534,12 +534,12 @@
                             </td>
 
                             <td>Exhibit & Sponsorhip Manager</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:christine.poole@lscu.coop" target="_parent">christine.poole@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -622,7 +622,7 @@
                             <td>
                               <a href="mailto:david.bowman@lscu.coop" target="_parent">david.bowman@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -779,12 +779,12 @@
                             </td>
 
                             <td>Auditor</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:edward.daffin@cuacg.com" target="_parent">edward.daffin@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -988,12 +988,12 @@
                             </td>
 
                             <td>Operations Assistant</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1000</td>
                             <td>
                               <a href="mailto:jaela.stephens@lscu.coop" target="_parent">jaela.stephens@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1020,7 +1020,7 @@
                             </td>
 
                             <td>Post Closer</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>205.421.1019</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -1054,12 +1054,12 @@
                             </td>
 
                             <td>Director, Consultative Services</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1106</td>
                             <td>
                               <a href="mailto:jay.brady@myleverage.com" target="_parent">jay.brady@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1070,12 +1070,12 @@
                             </td>
 
                             <td>Treasury Consultant</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:jsharkey@teamonecu.org">jsharkey@teamonecu.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1086,12 +1086,12 @@
                             </td>
 
                             <td>Accountant I</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1106</td>
                             <td>
                               <a href="mailto:jennifer.krambeck@lscu.coop">jennifer.krambeck@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1102,13 +1102,13 @@
                             </td>
 
                             <td>VP of P&C</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1074</td>
                             <td>
                               <a href="mailto:jessica.mcdaniel@lscu.coop"
                                 target="_parent">jessica.mcdaniel@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1153,10 +1153,10 @@
                             </td>
 
                             <td>Cash Management CUSO</td>
-                            <td>Department</td>
-                            <td>No Number Listed</td>
-                            <td>No Email Listed</td>
-                            <td>Location</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1183,12 +1183,12 @@
                             </td>
 
                             <td>Auditor</td>
-                            <td>Department</td>
-                            <td>No Number Listed</td>
+                            <td>-</td>
+                            <td>-</td>
                             <td>
                               <a href="mailto:joshua.swift@cuacg.com">joshua.swift@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1265,12 +1265,12 @@
                             </td>
 
                             <td>Executive Assistant to CEO</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1060</td>
                             <td>
                               <a href="mailto:kate.brady@lscu.coop" target="_parent">kate.brady@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1302,7 +1302,7 @@
                             <td>
                               <a href="mailto:kaylee.bryant@cuacg.com" target="_parent">kaylee.bryant@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1395,13 +1395,13 @@
                             </td>
 
                             <td>Treasury Analyst</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>313.395.6899</td>
                             <td>
                               <a href="mailto:kimberly.miller@trutreasury.com"
                                 target="_parent">kimberly.miller@trutreasury.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1428,12 +1428,12 @@
                             </td>
 
                             <td>Contract Management Analyst</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1034</td>
                             <td>
                               <a href="mailto:korie@cuvm.org" target="_parent">korie@cuvm.org</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1707,7 +1707,7 @@
 
                             <td>VP, Audit and Compliance </td>
                             <td>CUACG</td>
-                            <td>No Number Listed</td>
+                            <td>-</td>
                             <td>
                               <a href="mailto:Marcus.King@cuacg.com" target="_parent">Marcus.King@cuacg.com</a>
                             </td>
@@ -1932,13 +1932,13 @@
                             </td>
 
                             <td>Member Service Representative</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1200</td>
                             <td>
                               <a href="mailto:precious.boone@myleverage.com"
                                 target="_parent">precious.boone@myleverage.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1965,12 +1965,12 @@
                             </td>
 
                             <td>Senior Accountant</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>678.542.3469</td>
                             <td>
                               <a href="mailto:reeta.garrett@lscu.coop" target="_parent">reeta.garrett@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
 
                           <tr>
@@ -1998,12 +1998,12 @@
                             </td>
 
                             <td>Product Development Manager</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:Shae.Travis@lscu.coop" target="_parent">Shae.Travis@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -2055,7 +2055,7 @@
                             <td>
                               <a href="mailto:sharon.murphy@lscu.coop" target="_parent">sharon.murphy@lscu.coop</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -2201,7 +2201,7 @@
                             </td>
 
                             <td>Staff Auditor - AL</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>205.437.2179</td>
                             <td>
                               <a href="mailto:takeya.robertson@cuacg.com"
@@ -2235,7 +2235,7 @@
                             </td>
 
                             <td>Member Service Representative</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>850.558.1180</td>
                             <td>
                               <a href="mailto:Tammy.Williams@MyLeverage.com"
@@ -2334,12 +2334,12 @@
                             </td>
 
                             <td>Staff Auditor</td>
-                            <td>Department</td>
+                            <td>-</td>
                             <td>865.507.2263</td>
                             <td>
                               <a href="mailto:zachery.gilbert@cuacg.com" target="_parent">zachery.gilbert@cuacg.com</a>
                             </td>
-                            <td>Location</td>
+                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
