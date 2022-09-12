@@ -5,3 +5,10 @@
   width: 150px;
   height: auto;
 }
+
+
+.placeholder{
+  background-color: rgb(116, 115, 115);
+  height: 200px !important;
+  width: 150px !important;
+}
