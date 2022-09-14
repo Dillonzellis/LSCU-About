@@ -114,22 +114,6 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="Abigail Endsley">
-                                <div class="name">Abigail Endsley</div>
-                              </div>
-                            </td>
-                            <td>Marketing Intern</td>
-                            <td>-</td>
-                            <td>866.231.0545</td>
-                            <td>
-                              <a href="mailto:abigail@growthbydesign.org"
-                                target="_parent">abigail@growthbydesign.org</a>
-                            </td>
-                            <td>Duluth</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
                                 <img src="../imgs/directory/AlanBabcock_1.jpg" class="" alt="">
                                 <div class="name">Alan Babcock</div>
                               </div>
@@ -369,22 +353,6 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/blake-westbrook.jpg" alt="Blake Westbrook">
-                                <div class="name">Blake Westbrook</div>
-                              </div>
-                            </td>
-
-                            <td>Director, Political Action & Grassroots (AL & GA)</td>
-                            <td>Advocacy</td>
-                            <td>205.437.2164</td>
-                            <td>
-                              <a href="mailto:Blake.Westbrook@lscu.coop" target="_parent">Blake.Westbrook@lscu.coop</a>
-                            </td>
-                            <td>Birmingham</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
                                 <img src="../imgs/directory/bobbi-grady.JPG" alt="Bobbi Grady">
                                 <div class="name">Bobbi Grady</div>
                               </div>
@@ -435,20 +403,6 @@
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Cameron Hicks</div>
-                              </div>
-                            </td>
-
-                            <td>Intern</td>
-                            <td>-</td>
-                            <td>904.832.0197</td>
-                            <td>-</td>
-                            <td>-</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
                                 <div class="name">Cara Dollinger</div>
                               </div>
                             </td>
@@ -460,22 +414,6 @@
                               <a href="mailto:cara.dollinger@lscu.coop" target="_parent">cara.dollinger@lscu.coop</a>
                             </td>
                             <td>Tallahassee</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Carol Simmonds</div>
-                              </div>
-                            </td>
-
-                            <td>Senior Staff Accountant</td>
-                            <td>-</td>
-                            <td>678.542.3411</td>
-                            <td>
-                              <a href="mailto:carol.simmonds@lscu.coop" target="_parent">carol.simmonds@lscu.coop</a>
-                            </td>
-                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -524,22 +462,6 @@
                               <a href="mailto:chrism@growthbydesign.org" target="_parent">chrism@growthbydesign.org</a>
                             </td>
                             <td>Remote</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/christine-poole.jpg" class="" alt="Christine Poole">
-                                <div class="name">Christine Poole</div>
-                              </div>
-                            </td>
-
-                            <td>Exhibit & Sponsorhip Manager</td>
-                            <td>-</td>
-                            <td>866.231.0545</td>
-                            <td>
-                              <a href="mailto:christine.poole@lscu.coop" target="_parent">christine.poole@lscu.coop</a>
-                            </td>
-                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1048,22 +970,6 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/jay-brady.png" class="" alt="Jay Brady">
-                                <div class="name">Jay Brady</div>
-                              </div>
-                            </td>
-
-                            <td>Director, Consultative Services</td>
-                            <td>-</td>
-                            <td>850.558.1106</td>
-                            <td>
-                              <a href="mailto:jay.brady@myleverage.com" target="_parent">jay.brady@myleverage.com</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
                                 <div class="name">Jeffrey Sharkey</div>
                               </div>
@@ -1090,23 +996,6 @@
                             <td>850.558.1106</td>
                             <td>
                               <a href="mailto:jennifer.krambeck@lscu.coop">jennifer.krambeck@lscu.coop</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Jessica McDaniel</div>
-                              </div>
-                            </td>
-
-                            <td>VP of P&C</td>
-                            <td>-</td>
-                            <td>850.558.1074</td>
-                            <td>
-                              <a href="mailto:jessica.mcdaniel@lscu.coop"
-                                target="_parent">jessica.mcdaniel@lscu.coop</a>
                             </td>
                             <td>-</td>
                           </tr>
@@ -1255,22 +1144,6 @@
                                 target="_parent">karen.frazee@myleverage.com</a>
                             </td>
                             <td>Tallahassee</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/Kate_brady.JPG" alt="Alan">
-                                <div class="name">Kate Brady</div>
-                              </div>
-                            </td>
-
-                            <td>Executive Assistant to CEO</td>
-                            <td>-</td>
-                            <td>850.558.1060</td>
-                            <td>
-                              <a href="mailto:kate.brady@lscu.coop" target="_parent">kate.brady@lscu.coop</a>
-                            </td>
-                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1465,22 +1338,6 @@
                             <td>678.542.3479</td>
                             <td>
                               <a href="mailto:kyle.fowler@lscu.coop" target="_parent">kyle.fowler@lscu.coop</a>
-                            </td>
-                            <td>Duluth</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/laura-gober.png" class="" alt="Laura Gober">
-                                <div class="name">Laura Gober</div>
-                              </div>
-                            </td>
-
-                            <td>VP, Compliance &amp; Regulatory Services</td>
-                            <td>Compliance Services</td>
-                            <td>678.542.3453</td>
-                            <td>
-                              <a href="mailto:laura.gober@lscu.coop" target="_parent">laura.gober@lscu.coop</a>
                             </td>
                             <td>Duluth</td>
                           </tr>
@@ -1988,22 +1845,6 @@
                               <a href="mailto:samantha.beeler@lscu.coop" target="_parent">samantha.beeler@lscu.coop</a>
                             </td>
                             <td>Birmingham</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Shae Travis</div>
-                              </div>
-                            </td>
-
-                            <td>Product Development Manager</td>
-                            <td>-</td>
-                            <td>866.231.0545</td>
-                            <td>
-                              <a href="mailto:Shae.Travis@lscu.coop" target="_parent">Shae.Travis@lscu.coop</a>
-                            </td>
-                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
