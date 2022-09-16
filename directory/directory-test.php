@@ -7,31 +7,28 @@
 <html lang="en">
 
 <head>
-    <title>LSCU | Team Member Directory</title>
-    <meta charset="utf-8">
-    <!-- Meta -->
-    <meta name="keywords" content="" />
-    <meta name="author" content="">
-    <meta name="robots" content="" />
-    <meta name="description" content="" />
+  <title>LSCU | Team Member Directory</title>
+  <meta charset="utf-8">
+  <!-- Meta -->
+  <meta name="keywords" content="" />
+  <meta name="author" content="">
+  <meta name="robots" content="" />
+  <meta name="description" content="" />
 
-    <!-- this styles only adds some repairs on idevices  -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- this styles only adds some repairs on idevices  -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <!-- Favicon -->
-    <link rel="shortcut icon" href="../../images/favicon.ico">
+  <!-- Favicon -->
+  <link rel="shortcut icon" href="../../images/favicon.ico">
 
-    <!-- Google fonts - witch you want to use - (rest you can just remove) -->
-    <link
-        href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic'
-        rel='stylesheet' type='text/css'>
-    <link href='https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900' rel='stylesheet'
-        type='text/css'>
+  <!-- Google fonts - witch you want to use - (rest you can just remove) -->
+  <link href='https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
 
-    <link rel="stylesheet" href="../style.css">
-    <link rel="stylesheet" href="../css/style.css" <!--[if lt IE 9]>
-    <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="../css/style.css" <!--[if lt IE 9]>
+  <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
 
     <!-- stylesheets -->
     <link rel="stylesheet" media="screen" href="../../js/bootstrap/bootstrap.min.css" type="text/css" />
@@ -72,12 +69,12 @@
 <body>
     <div class="site_wrapper">
         <div class="topbar light topbar-padding">
-            <?php include '../../inc/topbar.php';?>
+            <?php include '../../inc/topbar.php'; ?>
         </div>
         <div class="clearfix"></div>
 
         <div id="header" class="header-section style1 pin-style">
-            <?php include '../../inc/nav.php';?>
+            <?php include '../../inc/nav.php'; ?>
         </div>
         <!--end menu-->
         <div class="clearfix"></div>
@@ -118,7 +115,7 @@
                                 <div class="name">Alan Babcock</div>
                               </div>
                             </td>
-                            <td>VP, Shared Cooperative Services</td>
+                            <td>VP, Strategic Partnerships</td>
                             <td>Product Management & Development</td>
                             <td>850.558.1102</td>
                             <td>
@@ -150,7 +147,7 @@
                               </div>
                             </td>
                             <td>Senior Director, Governmental Affairs</td>
-                            <td>Education</td>
+                            <td>Advocacy</td>
                             <td>205.437.2159</td>
                             <td>
                               <a href="mailto:allison.allen@lscu.coop" target="_parent">allison.allen@lscu.coop</a>
@@ -179,7 +176,7 @@
                                 <div class="name">Amanda Onkst</div>
                               </div>
                             </td>
-                            <td>Senior Auditor/Office Manager</td>
+                            <td>Audit & Compliance Support Specialist</td>
                             <td>CUACG</td>
                             <td>850.558.1056</td>
                             <td>
@@ -194,7 +191,7 @@
                                 <div class="name">Angela Harris</div>
                               </div>
                             </td>
-                            <td>Manager, Card Services</td>
+                            <td>Payment Solutions Manager</td>
                             <td>Payment Solutions</td>
                             <td>850.558.1190</td>
                             <td>
@@ -207,7 +204,7 @@
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Anthony Roberts</div>
+                                <div class="name">Tony Roberts</div>
                               </div>
                             </td>
 
@@ -217,7 +214,7 @@
                             <td>
                               <a href="mailto:tony.roberts@lscu.coop" target="_parent">tony.roberts@lscu.coop</a>
                             </td>
-                            <td>-</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -227,7 +224,7 @@
                               </div>
                             </td>
 
-                            <td>Member Service Representative</td>
+                            <td>Payment Solutions Specialist I</td>
                             <td>Payment Solutions</td>
                             <td>850.558.1048</td>
                             <td>
@@ -268,23 +265,7 @@
                             </td>
                             <td>Mountain Brook</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Ashley Martin</div>
-                              </div>
-                            </td>
-
-                            <td>Payment Solutions Specialist I</td>
-                            <td>-</td>
-                            <td>850.558.1194</td>
-                            <td>
-                              <a href="mailto:ashley.martin@myleverage.com">ashley.martin@myleverage.com</a>
-                            </td>
-                            <td>-</td>
-
-                          </tr>
+  
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -294,7 +275,7 @@
                             </td>
 
                             <td>Communications Intern</td>
-                            <td>GBD Intern</td>
+                            <td>Growth By Design</td>
                             <td>850.558.1174</td>
                             <td>
                               <a href="mailto:beatriz.arrocha@lscu.coop" target="_parent">beatriz.arrocha@lscu.coop</a>
@@ -317,23 +298,7 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Benjamin "Ben" Blackerby, Esq.</div>
-                              </div>
-                            </td>
 
-                            <td>Closing Agent</td>
-                            <td>-</td>
-                            <td>205.421.1010</td>
-                            <td>
-                              <a href="mailto:mailbox@commonbondtitle.com"
-                                target="_parent">mailbox@commonbondtitle.com</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -353,13 +318,29 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
+                                <img src="../imgs/directory/user-image.png" alt="Allie Salyer">
+                                <div class="name">Allie Salyer</div>
+                              </div>
+                            </td>
+
+                            <td>Chief Culture Officer</td>
+                            <td>People & Culture</td>
+                            <td>850.558.1010</td>
+                            <td>
+                              <a href="allie.salyer@lscu.coop" target="_parent">allie.salyer@lscu.coop</a>
+                            </td>
+                            <td>Tallahassee</td>
+                          </tr>
+                          <tr>
+                            <td>
+                              <div class="img-wrapper">
                                 <img src="../imgs/directory/bobbi-grady.JPG" alt="Bobbi Grady">
                                 <div class="name">Bobbi Grady</div>
                               </div>
                             </td>
 
-                            <td>Development Coordinator (SECUF)</td>
-                            <td>Member Engagement</td>
+                            <td>Director, Foundation</td>
+                            <td>SECUF</td>
                             <td>205.437.2128</td>
                             <td>
                               <a href="mailto:bobbi.grady@lscu.coop" target="_parent">bobbi.grady@lscu.coop</a>
@@ -374,7 +355,7 @@
                               </div>
                             </td>
 
-                            <td>Manager, Sales and Service (CUVM)</td>
+                            <td>Manager, Sales and Service</td>
                             <td>CUVM</td>
                             <td>850.558.1050</td>
                             <td>
@@ -440,7 +421,7 @@
                             </td>
 
                             <td>Video Production Intern</td>
-                            <td>GBD Intern</td>
+                            <td>Growth By Design</td>
                             <td>850.558.1156</td>
                             <td>
                               <a href="mailto:chris.frentzel@lscu.coop" target="_parent">chris.frentzel@lscu.coop</a>
@@ -471,7 +452,7 @@
                               </div>
                             </td>
 
-                            <td>Member Service Representative</td>
+                            <td>Contract Management Analyst</td>
                             <td>CUVM</td>
                             <td>866.231.0545</td>
                             <td>
@@ -497,6 +478,26 @@
                             </td>
                             <td>Remote</td>
                           </tr>
+
+
+                          <tr>
+                            <td>
+                              <div class="img-wrapper">
+                                <img src="../imgs/directory/user-image.png" class="" alt="Carrie Litherland">
+                                <div class="name">Carrie Litherland</div>
+                              </div>
+                            </td>
+
+                            <td>Foundation Coordinator</td>
+                            <td>SECUF</td>
+                            <td>850.558.1008</td>
+                            <td>
+                              <a href="carrie.litherland@lscu.coop"
+                                target="_parent">carrie.litherland@lscu.coop</a>
+                            </td>
+                            <td>Tallahassee</td>
+                          </tr>
+
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -521,7 +522,7 @@
                               </div>
                             </td>
 
-                            <td>Customer Service Representative</td>
+                            <td>Payment Solutions Rep II</td>
                             <td>Payment Solutions</td>
                             <td>678.542.3441</td>
                             <td>
@@ -544,7 +545,7 @@
                             <td>
                               <a href="mailto:david.bowman@lscu.coop" target="_parent">david.bowman@lscu.coop</a>
                             </td>
-                            <td>-</td>
+                            <td>Tallahassee</td>
                           </tr>
                           <tr>
                             <td>
@@ -619,7 +620,7 @@
                               </div>
                             </td>
 
-                            <td>Manager of Vendor Relations</td>
+                            <td>Manager, Vendor Relations</td>
                             <td>CUVM</td>
                             <td>850.558.1030</td>
                             <td>
@@ -635,7 +636,7 @@
                               </div>
                             </td>
 
-                            <td>Web Developer</td>
+                            <td>Jr. Web Developer</td>
                             <td>Growth by Design</td>
                             <td>850.558.1030</td>
                             <td>
@@ -692,22 +693,7 @@
                             </td>
                             <td>Tallahassee</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Edward Daffin II</div>
-                              </div>
-                            </td>
-
-                            <td>Auditor</td>
-                            <td>-</td>
-                            <td>866.231.0545</td>
-                            <td>
-                              <a href="mailto:edward.daffin@cuacg.com" target="_parent">edward.daffin@cuacg.com</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
+     
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -716,7 +702,7 @@
                               </div>
                             </td>
 
-                            <td>Staff Accountant</td>
+                            <td>Senior Accountant</td>
                             <td>Finance & Accounting</td>
                             <td>850.558.1168</td>
                             <td>
@@ -733,7 +719,7 @@
                             </td>
 
                             <td>Salesforce Developer</td>
-                            <td>Product Development</td>
+                            <td>Shared Cooperative Services</td>
                             <td>850.558.1036</td>
                             <td>
                               <a href="liz.laffitte@lscu.coop" target="_parent">liz.laffitte@lscu.coop</a>
@@ -777,7 +763,7 @@
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Evan Torney</div>
+                                <div class="name">Evin Torney</div>
                               </div>
                             </td>
 
@@ -814,7 +800,7 @@
                               </div>
                             </td>
 
-                            <td>ATM Operations Specialist</td>
+                            <td>ATM Operations Manager</td>
                             <td>MembersCore Alliance</td>
                             <td>678.542.3409</td>
                             <td>
@@ -861,7 +847,7 @@
                                 <div class="name">Gwen Davis</div>
                               </div>
                             </td>
-                            <td>Member Service Representative</td>
+                            <td>Payment Solutions Rep II</td>
                             <td>Payment Solutions</td>
                             <td>850.558.1186</td>
                             <td>
@@ -872,8 +858,8 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/hayley-moss.jpg" class="" alt="Hayley Moss">
-                                <div class="name">Hayley Moss</div>
+                                <img src="../imgs/directory/hayley-moss.jpg" class="" alt="Hayley Trammell">
+                                <div class="name">Hayley Trammell</div>
                               </div>
                             </td>
 
@@ -881,7 +867,7 @@
                             <td>Education & Training</td>
                             <td>866.231.0545</td>
                             <td>
-                              <a href="mailto:hayley.moss@lscu.coop" target="_parent">hayley.moss@lscu.coop</a>
+                              <a href="mailto:hayley.trammell@lscu.coop" target="_parent">hayley.trammell@lscu.coop</a>
                             </td>
                             <td>Birmingham</td>
                           </tr>
@@ -893,7 +879,7 @@
                               </div>
                             </td>
 
-                            <td>Director, Accounting</td>
+                            <td>Accounting Manager</td>
                             <td>Finance & Accounting</td>
                             <td>678.542.3477</td>
                             <td>
@@ -901,22 +887,7 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Jaela Stephens</div>
-                              </div>
-                            </td>
-
-                            <td>Operations Assistant</td>
-                            <td>-</td>
-                            <td>850.558.1000</td>
-                            <td>
-                              <a href="mailto:jaela.stephens@lscu.coop" target="_parent">jaela.stephens@lscu.coop</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
+  
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -925,7 +896,7 @@
                               </div>
                             </td>
 
-                            <td>Closing Agent</td>
+                            <td>Closing Representative</td>
                             <td>CBT</td>
                             <td>205.421.1026</td>
                             <td>
@@ -942,7 +913,7 @@
                             </td>
 
                             <td>Post Closer</td>
-                            <td>-</td>
+                            <td>CBT</td>
                             <td>205.421.1019</td>
                             <td>
                               <a href="mailto:mailbox@commonbondtitle.com"
@@ -960,7 +931,7 @@
 
                             <td>Staff Auditor</td>
                             <td>CUACG</td>
-                            <td>Number</td>
+                            <td>205.437.2114</td>
                             <td>
                               <a href="mailto:javonte.martinez@cuacg.com"
                                 target="_parent">javonte.martinez@cuacg.com</a>
@@ -976,29 +947,30 @@
                             </td>
 
                             <td>Treasury Consultant</td>
-                            <td>-</td>
+                            <td>Tru Treasury</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:jsharkey@teamonecu.org">jsharkey@teamonecu.org</a>
                             </td>
-                            <td>-</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Jennifer Krambeck</div>
+                                <div class="name">Jennifer Jager</div>
                               </div>
                             </td>
 
                             <td>Accountant I</td>
-                            <td>-</td>
+                            <td>Finance & Accounting</td>
                             <td>850.558.1106</td>
                             <td>
                               <a href="mailto:jennifer.krambeck@lscu.coop">jennifer.krambeck@lscu.coop</a>
                             </td>
-                            <td>-</td>
+                            <td>Tallahassee</td>
                           </tr>
+                          
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -1016,6 +988,25 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
+
+                          <tr>
+                            <td>
+                              <div class="img-wrapper">
+                                <img src="../imgs/directory/user-image.png" class="" alt="Jessica Scott">
+                                <div class="name">Jessica "JJ" Scott</div>
+                              </div>
+                            </td>
+
+                            <td>Staff Accountant</td>
+                            <td>Finance & Accounting</td>
+                            <td>850.558.1066</td>
+                            <td>
+                              <a href="mailto:jessica.scott@lscu.coop"
+                                target="_parent">jessica.scott@lscu.coop</a>
+                            </td>
+                            <td>Tallahassee</td>
+                          </tr>
+
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -1041,11 +1032,11 @@
                               </div>
                             </td>
 
-                            <td>Cash Management CUSO</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>-</td>
+                            <td>President, Tru Treasury</td>
+                            <td>Tru Treasury</td>
+                            <td>850.583.3390</td>
+                            <td><a href="mailto:john.ballantyne@trutreasury.com" target="_parent">john.ballantyne@trutreasury.com</a></td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1062,22 +1053,6 @@
                               <a href="mailto:john.rothell@lscu.coop" target="_parent">john.rothell@lscu.coop</a>
                             </td>
                             <td>Tallahassee</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/josh-swift.jpg" class="" alt="Joshua Swift">
-                                <div class="name">Joshua Swift</div>
-                              </div>
-                            </td>
-
-                            <td>Auditor</td>
-                            <td>-</td>
-                            <td>-</td>
-                            <td>
-                              <a href="mailto:joshua.swift@cuacg.com">joshua.swift@cuacg.com</a>
-                            </td>
-                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1103,7 +1078,7 @@
                               </div>
                             </td>
 
-                            <td>Manager, Operations</td>
+                            <td>Payment Solutions Director</td>
                             <td>Payment Solutions</td>
                             <td>678.542.3439</td>
                             <td>
@@ -1164,8 +1139,8 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/kaylee-bryant.png" class="" alt="Kaylee Bryant">
-                                <div class="name">Kaylee Bryant</div>
+                                <img src="../imgs/directory/kaylee-bryant.png" class="" alt="Kaylee Wiley">
+                                <div class="name">Kaylee Wiley</div>
                               </div>
                             </td>
 
@@ -1173,9 +1148,9 @@
                             <td>CUACG</td>
                             <td>205.437.2129</td>
                             <td>
-                              <a href="mailto:kaylee.bryant@cuacg.com" target="_parent">kaylee.bryant@cuacg.com</a>
+                              <a href="mailto:kaylee.wiley@cuacg.com" target="_parent">kaylee.wiley@cuacg.com</a>
                             </td>
-                            <td>-</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1251,7 +1226,7 @@
                               </div>
                             </td>
 
-                            <td>Accounting Intern</td>
+                            <td>Staff Accounting</td>
                             <td>Finance & Accounting</td>
                             <td>810.545.8049</td>
                             <td>
@@ -1268,13 +1243,13 @@
                             </td>
 
                             <td>Treasury Analyst</td>
-                            <td>-</td>
+                            <td>Tru Treasury</td>
                             <td>313.395.6899</td>
                             <td>
                               <a href="mailto:kimberly.miller@trutreasury.com"
                                 target="_parent">kimberly.miller@trutreasury.com</a>
                             </td>
-                            <td>-</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -1284,29 +1259,13 @@
                               </div>
                             </td>
 
-                            <td>Contract Management Analyst</td>
+                            <td>Senior Analyst</td>
                             <td>CUVM</td>
                             <td>850.558.1084</td>
                             <td>
                               <a href="mailto:kim@cuvm.org" target="_parent">kim@cuvm.org</a>
                             </td>
                             <td>Remote</td>
-                          </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/korie-mitchell.png" alt="Korie Mitchell">
-                                <div class="name">Korie Mitchell</div>
-                              </div>
-                            </td>
-
-                            <td>Contract Management Analyst</td>
-                            <td>-</td>
-                            <td>850.558.1034</td>
-                            <td>
-                              <a href="mailto:korie@cuvm.org" target="_parent">korie@cuvm.org</a>
-                            </td>
-                            <td>-</td>
                           </tr>
                           <tr>
                             <td>
@@ -1333,7 +1292,7 @@
                               </div>
                             </td>
 
-                            <td>VP, Strategic Partnerships</td>
+                            <td>VP, Member Alliance</td>
                             <td>Members Core Alliance & Members ATM Alliance</td>
                             <td>678.542.3479</td>
                             <td>
@@ -1398,7 +1357,7 @@
                               </div>
                             </td>
 
-                            <td>ATM Operations Assistant</td>
+                            <td>ATM Operations Specialist</td>
                             <td>MembersCore Alliance</td>
                             <td>269.245.2146</td>
                             <td>
@@ -1410,7 +1369,7 @@
                             <td>
                               <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Lawrence Terrell McGrew</div>
+                                <div class="name">Terrell McGrew</div>
                               </div>
                             </td>
 
@@ -1463,7 +1422,7 @@
                               </div>
                             </td>
 
-                            <td>VP, Card Services</td>
+                            <td>SVP/Cheif Operating Officer</td>
                             <td>Affiliates Consolidated Services</td>
                             <td>850.558.1198</td>
                             <td>
@@ -1504,6 +1463,24 @@
                             </td>
                             <td>Tallahassee</td>
                           </tr>
+
+                          <tr>
+                            <td>
+                              <div class="img-wrapper">
+                                <img src="../imgs/directory/user-image.png" class="" alt="Jonathan Wright">
+                                <div class="name">Jonathan Wright</div>
+                              </div>
+                            </td>
+
+                            <td>Director Sales & Consulting</td>
+                            <td>Payment Solutions</td>
+                            <td>205.437.2143</td>
+                            <td>
+                              <a href="mailto:jonathan.wright@myleverage.com" target="_parent">jonathan.wright@myleverage.com</a>
+                            </td>
+                            <td>Remote</td>
+                          </tr>
+
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -1564,7 +1541,7 @@
 
                             <td>VP, Audit and Compliance </td>
                             <td>CUACG</td>
-                            <td>-</td>
+                            <td>205.437.2141</td>
                             <td>
                               <a href="mailto:Marcus.King@cuacg.com" target="_parent">Marcus.King@cuacg.com</a>
                             </td>
@@ -1573,8 +1550,8 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/mary-jaap.png" class="" alt="Mary Jaapisler">
-                                <div class="name">Mary Jaapisler</div>
+                                <img src="../imgs/directory/mary-jaap.png" class="" alt="Mary Jaap">
+                                <div class="name">Mary Jaap</div>
                               </div>
                             </td>
 
@@ -1602,6 +1579,24 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
+
+                          <tr>
+                            <td>
+                              <div class="img-wrapper">
+                                <img src="../imgs/directory/user-image.png" class="" alt="Siddarth Kapur">
+                                <div class="name">Siddarth Kapur</div>
+                              </div>
+                            </td>
+
+                            <td>Consultant - Contracted</td>
+                            <td>Payment Solutions</td>
+                            <td>Remote</td>
+                            <td>
+                              <a href="#" target="_parent">-</a>
+                            </td>
+                            <td>-</td>
+                          </tr>
+
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -1621,12 +1616,12 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/michelle-sheffield.jpg" class="" alt="Michelle Benson-Sheffield">
-                                <div class="name">Michelle Benson-Sheffield</div>
+                                <img src="../imgs/directory/michelle-sheffield.jpg" class="" alt="Michelle Sheffield">
+                                <div class="name">Michelle Sheffield</div>
                               </div>
                             </td>
 
-                            <td>Closer</td>
+                            <td>Sr Closer</td>
                             <td>CBT</td>
                             <td>205.421.1010</td>
                             <td>
@@ -1780,23 +1775,7 @@
                             </td>
                             <td>Duluth</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/Precious-boone.JPG" alt="Precious Boone">
-                                <div class="name">Precious Boone</div>
-                              </div>
-                            </td>
 
-                            <td>Member Service Representative</td>
-                            <td>-</td>
-                            <td>850.558.1200</td>
-                            <td>
-                              <a href="mailto:precious.boone@myleverage.com"
-                                target="_parent">precious.boone@myleverage.com</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -1813,22 +1792,7 @@
                             </td>
                             <td>Tallahassee</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Reeta (Laureeta) Garrett</div>
-                              </div>
-                            </td>
 
-                            <td>Senior Accountant</td>
-                            <td>-</td>
-                            <td>678.542.3469</td>
-                            <td>
-                              <a href="mailto:reeta.garrett@lscu.coop" target="_parent">reeta.garrett@lscu.coop</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
 
                           <tr>
                             <td>
@@ -1896,13 +1860,13 @@
                             <td>
                               <a href="mailto:sharon.murphy@lscu.coop" target="_parent">sharon.murphy@lscu.coop</a>
                             </td>
-                            <td>-</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Shelley Carroll Miller</div>
+                                <img src="../imgs/directory/user-image.png" class="" alt="Shelley Miller Hereford">
+                                <div class="name">Shelley Miller Hereford</div>
                               </div>
                             </td>
 
@@ -1959,7 +1923,7 @@
 
                             <td>Quality Assurance Officer</td>
                             <td>MembersCore Alliance</td>
-                            <td>-</td>
+                            <td>678.542.3506</td>
                             <td>
                               <a href="mailto:stephen.dunbar@lscu.coop" target="_parent">stephen.dunbar@lscu.coop</a>
                             </td>
@@ -1973,7 +1937,7 @@
                               </div>
                             </td>
 
-                            <td>Business Development Consultant</td>
+                            <td>Senior Business Development Consultant</td>
                             <td>Business Development</td>
                             <td>850.558.1164</td>
                             <td>
@@ -2020,8 +1984,8 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/sydney-rubin.jpg" class="" alt="Sydney Rubin">
-                                <div class="name">Sydney Rubin</div>
+                                <img src="../imgs/directory/sydney-rubin.jpg" class="" alt="Sydney Seral">
+                                <div class="name">Sydney Seral</div>
                               </div>
                             </td>
 
@@ -2029,27 +1993,11 @@
                             <td>Advocacy</td>
                             <td>678.542.3444</td>
                             <td>
-                              <a href="mailto:sydney.rubin@lscu.coop" target="_parent">sydney.rubin@lscu.coop</a>
+                              <a href="mailto:sydney.seral@lscu.coop" target="_parent">sydney.seral@lscu.coop</a>
                             </td>
                             <td>Remote</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/takeya-robertson.JPG" alt="TaKeya Robertson">
-                                <div class="name">TaKeya Robertson</div>
-                              </div>
-                            </td>
-
-                            <td>Staff Auditor - AL</td>
-                            <td>-</td>
-                            <td>205.437.2179</td>
-                            <td>
-                              <a href="mailto:takeya.robertson@cuacg.com"
-                                target="_parent">takeya.robertson@cuacg.com</a>
-                            </td>
-                            <td>Remote</td>
-                          </tr>
+ 
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -2075,8 +2023,8 @@
                               </div>
                             </td>
 
-                            <td>Member Service Representative</td>
-                            <td>-</td>
+                            <td>Payment Solutions Rep I</td>
+                            <td>Payment Solutions</td>
                             <td>850.558.1180</td>
                             <td>
                               <a href="mailto:Tammy.Williams@MyLeverage.com"
@@ -2093,7 +2041,7 @@
                             </td>
 
                             <td>Business Development Consultant</td>
-                            <td>Payment Solutions</td>
+                            <td>Business Development</td>
                             <td>205.437.2127</td>
                             <td>
                               <a href="mailto:taylor.sheffield@myleverage.com"
@@ -2109,7 +2057,7 @@
                               </div>
                             </td>
 
-                            <td>Contract Management Analyst</td>
+                            <td>Contract Due Diligence Analyst</td>
                             <td>CUVM</td>
                             <td>850.558.1016</td>
                             <td>
@@ -2141,7 +2089,7 @@
                               </div>
                             </td>
 
-                            <td>Closing Agent</td>
+                            <td>Closing Representative</td>
                             <td>CBT</td>
                             <td>205.421.1026</td>
                             <td>
@@ -2153,8 +2101,8 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/wen-hemingway.png" class="" alt="Wen Hemingway">
-                                <div class="name">Wen Hemingway</div>
+                                <img src="../imgs/directory/wen-hemingway.png" class="" alt="Dr. Wen Hemingway">
+                                <div class="name">Dr. Wen Hemingway</div>
                               </div>
                             </td>
 
@@ -2175,12 +2123,12 @@
                             </td>
 
                             <td>Staff Auditor</td>
-                            <td>-</td>
+                            <td>CUACG</td>
                             <td>865.507.2263</td>
                             <td>
                               <a href="mailto:zachery.gilbert@cuacg.com" target="_parent">zachery.gilbert@cuacg.com</a>
                             </td>
-                            <td>-</td>
+                            <td>Remote</td>
                           </tr>
                           <tr>
                             <td>
@@ -2215,7 +2163,7 @@
         <div class="clearfix"></div>
 
         <section class="section-copyrights sec-moreless-padding">
-            <?php include '../../inc/footer.php';?>
+            <?php include '../../inc/footer.php'; ?>
         </section>
         <!--end section-->
         <div class="clearfix"></div>
