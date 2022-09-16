@@ -111,7 +111,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/AlanBabcock_1.jpg" class="" alt="">
+                                <img src="../imgs/directory/AlanBabcock_1.jpg" class="" alt="Alan Babcock">
                                 <div class="name">Alan Babcock</div>
                               </div>
                             </td>
@@ -334,7 +334,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/bobbi-grady.JPG" alt="Bobbi Grady">
+                                <img src="../imgs/directory/bobbi_grady.jpg" alt="Bobbi Grady">
                                 <div class="name">Bobbi Grady</div>
                               </div>
                             </td>
@@ -534,7 +534,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/dave.bowman.jpg" class="" alt="David Bowman">
                                 <div class="name">David Bowman</div>
                               </div>
                             </td>
@@ -550,7 +550,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/david.huges.png" class="" alt="David Hughes">
                                 <div class="name">David Hughes</div>
                               </div>
                             </td>
@@ -566,7 +566,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/david.n.jpg" class="" alt="David Nettles">
                                 <div class="name">David Nettles</div>
                               </div>
                             </td>
@@ -1057,7 +1057,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/Julian_Gabriel.jpg" class="" alt="Julian Gabriel">
                                 <div class="name">Julian Gabriel</div>
                               </div>
                             </td>
@@ -1123,7 +1123,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/kate.h.png" class="" alt="Kate Heisler">
                                 <div class="name">Kate Heisler</div>
                               </div>
                             </td>
@@ -1813,7 +1813,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/shakeira-salters.JPG" alt="Shakeira Salters">
+                                <img src="../imgs/directory/shakeira_salters.jpg" alt="Shakeira Salters">
                                 <div class="name">Shakeira Salters</div>
                               </div>
                             </td>
@@ -1830,7 +1830,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/shane-williamson.JPG" alt="Shane Williamson">
+                                <img src="../imgs/directory/shane_williamson.jpg" alt="Shane Williamson">
                                 <div class="name">Shane Williamson</div>
                               </div>
                             </td>
@@ -2035,7 +2035,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/taylor-sheffield.JPG" alt="Taylor Sheffield">
+                                <img src="../imgs/directory/taylor_sheffield.jpg" alt="Taylor Sheffield">
                                 <div class="name">Taylor Sheffield</div>
                               </div>
                             </td>
