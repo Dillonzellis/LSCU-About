@@ -383,7 +383,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/cara-dollinger.jpg" class="" alt="Cara Dollinger">
                                 <div class="name">Cara Dollinger</div>
                               </div>
                             </td>
@@ -396,22 +396,7 @@
                             </td>
                             <td>Tallahassee</td>
                           </tr>
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
-                                <div class="name">Chelsea Riggle</div>
-                              </div>
-                            </td>
-
-                            <td>Recruiter</td>
-                            <td>-</td>
-                            <td>866.231.0545</td>
-                            <td>
-                              <a href="mailto:chelsea.riggle@lscu.coop" target="_parent">chelsea.riggle@lscu.coop</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
+                          
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -447,7 +432,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/chris-christensen.jpg" class="" alt="Christopher Christensen">
                                 <div class="name">Christopher Christensen</div>
                               </div>
                             </td>
@@ -483,7 +468,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="Carrie Litherland">
+                                <img src="../imgs/directory/carrie-litherland.jpg" class="" alt="Carrie Litherland">
                                 <div class="name">Carrie Litherland</div>
                               </div>
                             </td>
@@ -1583,23 +1568,6 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="Siddarth Kapur">
-                                <div class="name">Siddarth Kapur</div>
-                              </div>
-                            </td>
-
-                            <td>Consultant - Contracted</td>
-                            <td>Payment Solutions</td>
-                            <td>Remote</td>
-                            <td>
-                              <a href="#" target="_parent">-</a>
-                            </td>
-                            <td>-</td>
-                          </tr>
-
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
                                 <img src="../imgs/directory/user-image.png" class="" alt="">
                                 <div class="name">Melissa Brown</div>
                               </div>
@@ -1967,7 +1935,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/susan-lee.jpg" class="" alt="Susan Lee">
                                 <div class="name">Susan Lee</div>
                               </div>
                             </td>
