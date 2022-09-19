@@ -131,7 +131,7 @@
                                 <div class="name">Alisha Stair</div>
                               </div>
                             </td>
-                            <td>Member Engagement Consultant</td>
+                            <td>VP, Member Engagement</td>
                             <td>Member Engagement</td>
                             <td>205.437.2111</td>
                             <td>
@@ -1386,7 +1386,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/Lina Guzman - Pic.jpg" class="" alt="Lina Guzman">
                                 <div class="name">Lina Guzman</div>
                               </div>
                             </td>
