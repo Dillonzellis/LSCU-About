@@ -318,7 +318,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" alt="Allie Salyer">
+                                <img src="../imgs/directory/AllieSalyer_2.jpg" alt="Allie Salyer">
                                 <div class="name">Allie Salyer</div>
                               </div>
                             </td>
@@ -796,7 +796,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/gerald-mcswain.jpg" class="" alt="Gerald McSwain">
                                 <div class="name">Gerald McSwain</div>
                               </div>
                             </td>
@@ -1568,7 +1568,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/melissa-brown.jpg" class="" alt="Melissa Brown">
                                 <div class="name">Melissa Brown</div>
                               </div>
                             </td>
@@ -1601,7 +1601,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/mike-miller.jpg" class="" alt="Mike Miller">
                                 <div class="name">Mike Miller</div>
                               </div>
                             </td>
@@ -1730,7 +1730,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/Phillip_2.jpg" class="" alt="Philip Patrick">
                                 <div class="name">Philip Patrick</div>
                               </div>
                             </td>
