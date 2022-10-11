@@ -525,7 +525,7 @@
                             </td>
 
                             <td>Director, Product Management</td>
-                            <td>Product Development</td>
+                            <td>Product Management</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:david.hughes@lscu.coop" target="_parent">david.hughes@lscu.coop</a>
@@ -649,7 +649,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/EddieReyes_Headshot.jpg" class="" alt="Eddie Reyes">
                                 <div class="name">Eddie Reyes</div>
                               </div>
                             </td>
@@ -688,7 +688,7 @@
                             </td>
 
                             <td>Salesforce Developer</td>
-                            <td>Shared Cooperative Services</td>
+                            <td>Product Management</td>
                             <td>850.558.1036</td>
                             <td>
                               <a href="liz.laffitte@lscu.coop" target="_parent">liz.laffitte@lscu.coop</a>
@@ -796,7 +796,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/grace-newcombe.jpg" class="" alt="Grace Newcombe">
+                                <img src="../imgs/directory/grace-newcombe-new.jpg" class="" alt="Grace Newcombe">
                                 <div class="name">Grace Newcombe</div>
                               </div>
                             </td>
@@ -1190,7 +1190,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/kim-b.jpg" class="" alt="Kimberly Barker">
                                 <div class="name">Kimberly Barker</div>
                               </div>
                             </td>
@@ -1425,7 +1425,7 @@
                             </td>
 
                             <td>Communications Coordinator</td>
-                            <td>Advocacy</td>
+                            <td>Communication</td>
                             <td>866.231.0545</td>
                             <td>
                               <a href="mailto:lizeth.george@lscu.coop" target="_parent">lizeth.george@lscu.coop</a>
@@ -1591,7 +1591,7 @@
                             </td>
 
                             <td>Communications Manager</td>
-                            <td>Advocacy</td>
+                            <td>Communications</td>
                             <td>850.558.1176</td>
                             <td>
                               <a href="mailto:mike.miller@lscu.coop" target="_parent">mike.miller@lscu.coop</a>
@@ -1617,7 +1617,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/mitzi_4.jpg" class="" alt="Mitzi Nebhut">
                                 <div class="name">Mitzi Nebhut</div>
                               </div>
                             </td>
@@ -1731,7 +1731,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/preston2.png" class="" alt="Preston Bowen">
                                 <div class="name">Preston Bowen</div>
                               </div>
                             </td>
