@@ -1765,7 +1765,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/user-image.png" class="" alt="">
+                                <img src="../imgs/directory/Samantha Beeler.png" class="" alt="Samantha Beeler">
                                 <div class="name">Samantha Beeler</div>
                               </div>
                             </td>
