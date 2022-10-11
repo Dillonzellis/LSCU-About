@@ -388,7 +388,7 @@
                               </div>
                             </td>
 
-                            <td>Council Coordinator</td>
+                            <td>Council Manager</td>
                             <td>Education & Training</td>
                             <td>866.231.0545</td>
                             <td>
@@ -483,22 +483,6 @@
                             <td>Tallahassee</td>
                           </tr>
 
-                          <tr>
-                            <td>
-                              <div class="img-wrapper">
-                                <img src="../imgs/directory/collin-joiner.png" class="" alt="Collin Joiner">
-                                <div class="name">Collin Joiner</div>
-                              </div>
-                            </td>
-
-                            <td>Staff Auditor - TN</td>
-                            <td>CUACG</td>
-                            <td>205.437.2110</td>
-                            <td>
-                              <a href="mailto:collin.joiner@cuacg.com" target="_parent">collin.joiner@cuacg.com</a>
-                            </td>
-                            <td>Remote</td>
-                          </tr>
                           <tr>
                             <td>
                               <div class="img-wrapper">
@@ -848,9 +832,9 @@
                               </div>
                             </td>
 
-                            <td>Events Coordinator</td>
+                            <td>Event Manager</td>
                             <td>Education & Training</td>
-                            <td>866.231.0545</td>
+                            <td>205.437.2125</td>
                             <td>
                               <a href="mailto:hayley.trammell@lscu.coop" target="_parent">hayley.trammell@lscu.coop</a>
                             </td>
@@ -1765,7 +1749,7 @@
                           <tr>
                             <td>
                               <div class="img-wrapper">
-                                <img src="../imgs/directory/Samantha Beeler.png" class="" alt="Samantha Beeler">
+                                <img src="../imgs/directory/Samantha Beeler.png" class="" alt="samantha beeler">
                                 <div class="name">Samantha Beeler</div>
                               </div>
                             </td>
